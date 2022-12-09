@@ -19,6 +19,9 @@ defmodule ProductivityDashboardWeb.Router do
 
     get "/", PageController, :index
     get "/workout-tracker", WorkoutController, :index
+
+    #All Post Requests
+    post "/workout-tracker", WorkoutController, :formToJsonFile
   end
 
   # Other scopes may use custom stacks.
