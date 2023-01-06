@@ -13,6 +13,8 @@ datasource db {
 model task {
 
   id        Int     @id @default(autoincrement())
-  title     String @unique
+  title     String  @unique
   description   String
+  done Boolean @default(false)
+  time Int @default(0)
 }

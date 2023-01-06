@@ -14,5 +14,6 @@
             <li>
                 <a href="/task-list" class="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-blue-400 dark:text-white" aria-current="page">Task-tracker</a>
             </li>
+        </ul>
     </div>
 </nav>

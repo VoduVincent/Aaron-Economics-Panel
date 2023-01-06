@@ -1,11 +1,18 @@
 <script lang="ts">    
     import { page } from '$app/stores';
+    console.log($page.data)
 </script>
     
-<p>{$page.data.tasks}</p>
+<ul>
+    {#each $page.data.tasks as task,i}
+        <li>
+            <p>{task.title} {task.description}</p>
+        </li>
+    {/each}
+</ul>
 
-<form method="post">
-    <input type="text" id="taskName" placeholder="Task Name"/>
-    <input type="text" id="description" placeholder="Description"/>
+<form method="post" action="?/create">
+    <input type="title" id="title" placeholder="Task Name" name="title"/>
+    <input type="description" id="description" placeholder="Description" name="description"/>
     <input type="submit"/>
 </form>
