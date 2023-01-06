@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "sqlite"
-  url      = "file:D:/productivity_dashboard/src/data/vodu.db"
+  url      = "file:../src/data/vodu.db"
 }
 
 model task {
