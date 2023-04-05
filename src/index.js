@@ -17,24 +17,26 @@ app.use(express.static('../data/'))
 app.get("/", function(req,res) {
     res.sendFile(__dirname + '/index.html');
 })
-async function tick() {
-
+async function cityTick() {
+    console.time("Execution Time")
     //Reading all the diffrent files to find out the largest number, wich is thr current year
-    let datadir = fs.readdirSync("data")
+    let datadir = fs.readdirSync("data/cities")
+
+    console.log(datadir)
 
     datadir.sort(function(a,b){
-        return b - a
+        return Number(b.replace(/\.[^/.]+$/, "")) - Number(a.replace(/\.[^/.]+$/, "")) 
     })
     current_year = datadir[0].replace(/\.[^/.]+$/, "")
 
-    //Load Current Years CSV as JSON
+    //Load Current Years City CSV as JSON
     year_json = await csvtojson().fromFile("./data/" + current_year + ".csv")
 
     //Calculate new Net Prosperity
     await year_json.forEach(element => element["Net_Prosperity"] = Number(element["Prosperity_Regional"]) + Number(element["Prosperity_National"]) + Number(element["Road_Level"]) + Number(element["Trade"]) + Number(element["Capital"]) + Number(element["Special_Mod"]) + Number(element["Pop_Tax"]) + Number(element["Literacy"]))
 
     //Calculate new Population
-    await year_json.forEach(element => element["Pop"] = Math.round(Number(element["Pop"]) * (((Number(element["Pop_Growth_Mod"]) + Number(element["Colonial_Boost"]) + Number(element["Resource_Income"]) + Number(element["Healthcare_Spending"]) + Number(element["Terrain"]) + Number(element["War_Population"])) + 1.5) / 100) + 1) )
+    await year_json.forEach(element => element["Pop"] = Math.round(element["Pop"] * (((Number(element["Terrain"]) + Number(element["War_Population"]) +Number(element["Healthcare_Spending"]) + Number(element["Pop_Growth_Mod"]) + Number(element["Colonial_Boost"]) + Number(element["Resource_Boost"]) + Number(element["Net_Prosperity"]) + 1.5 ) / 100 ) + 1)))
 
     //Calculate New Income
     await year_json.forEach(element => element["Net_Income"] = (1 + Number(element["Net_Prosperity"])) * ((Number(element["Tax_Base_Industry"]*element["Pop"]) * Number(element["Tax"])) ))
@@ -49,11 +51,13 @@ async function tick() {
     fs.writeFileSync("./data/" + (Number(current_year) + 1) + ".csv",csv)
 
     console.log("Tick Complete")
+    console.timeEnd("Execution Time")
 }
 app.post("/",function(req,res){
     console.log("Ticking")
     //Start the Tick
-    tick()
+    cityTick()
+
 })
 
 

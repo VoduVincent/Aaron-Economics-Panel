@@ -1,5 +1,5 @@
 Empire,City,Pop,Tax,Prosperity_Regional,Prosperity_National,Road_Level,Terrain,Literacy,War_Population,Trade,Capital,Special_Mod,Healthcare_Spending,Pop_Tax,Pop_Growth_Mod,Colonial_Boost,Resource_Income,Resource_Boost,Tax_Base_Industry,Special_Economic_Notes,Net_Prosperity,Net_Income,Resources_Notes
-Aglarond,Aglarond,2867465.00,0.10,0.15,0.15,0.10,0.15,0.01,,0.10,0.10,,0.00,0.10,-0.20,,3000000.00,0.30,350.00,"Nat capital, high medieval industry, trade 3, all dwarf pop",0.71,Income,"Large iron, gold"
+Aglarond,Aglarond,2867465.00,0.10,0.15,0.15,0.10,0.15,0.01,,0.10,0.10,,0.00,0.10,-0.20,,3000000.00,0.30,350.00,"Nat capital, high medieval industry, trade 3, all dwarf pop",0.71,171718141.53,"Large iron, gold"
 Aglarond,Zirak,1245730.00,0.10,0.15,0.15,0.10,0.15,0.01,,0.00,,,0.00,0.10,-0.20,,400000.00,0.04,300.00,"medium medieval industry, trade 1, all dwarf pop",0.51,56468940.90,"large copper, low silver"
 Aglarond,Nauglamir,2198262.00,0.10,0.15,0.15,0.10,0.15,0.01,,0.00,,,0.00,0.10,-0.20,,1800000.00,0.18,300.00,"medium medieval industry, trade 1, all dwarf pop",0.51,99647216.46,large gems
 Aglarond,Khazadrum,156785.00,0.10,0.15,0.15,0.10,0.15,0.01,,0.00,,,0.00,0.10,-0.20,,1500000.00,0.15,200.00,"low medieval industry, trade 1, all dwarf pop",0.51,4738042.70,"huge iron, coal"
@@ -57,74 +57,74 @@ Bhaerynden Kingdom,Floln,1583551.00,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,0.00,0
 Bhaerynden Kingdom,Vornfarum,1039097.00,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,0.00,0.10,-0.20,,1100000.00,0.11,300.00,"medium medieval industry, trade 2, duergar",0.46,45512448.60,"large iron, silver"
 Bhaerynden Kingdom,Mor Moldir,524466.00,0.10,0.10,0.10,0.10,0.15,0.01,,,,,0.00,0.10,-0.20,,3500000.00,0.35,200.00,"low medieval industry, trade 1, all duergar pop",0.41,14789941.20,"small platinum, mithril"
 Bhaerynden Kingdom,Mugruhm,312350.00,0.10,0.10,0.10,0.10,0.15,0.01,,,,,0.00,0.10,-0.20,,2000000.00,0.20,200.00,"low medieval industry, trade 1, all duergar pop",0.41,8808270.00,"large coal, oil"
-Britannia ,Pendragon,12131190.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.20,0.10,0.16,0.20,,,,,0.00,700.00,"Nat Capital, very high modern industry, trade 5, medium portal",0.64,4165244086.50,
-Britannia ,Axel City,867245.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.00,,,0.20,,,,,0.00,600.00,"medium modern industry, trade 1",0.18,183422317.50,
-Britannia ,Tokyo,3878949.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.15,,0.20,0.20,,,,1000000.00,0.10,650.00,"high modern industry, trade 4, large portal",0.53,1153502458.88,"moderate oil (1900), unused medium sakuradite"
-Britannia ,Kyoto,107926.00,0.30,-0.10,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,19021957.50,
-Britannia ,Akiba,2187382.00,0.30,-0.10,0.00,0.20,0.05,0.08,,0.10,,,0.20,,,,1300000.00,0.13,600.00,"medium modern industry, trade 3",0.28,502004169.00,moderate gems (1900)
-Britannia ,Gloucester,782442.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.05,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.23,143773717.50,
-Britannia ,Alcanretia,269949.00,0.30,-0.10,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,47578511.25,
-Britannia ,Camelot,4380101.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.10,0.05,,0.20,,,,1450000.00,0.15,650.00,"reg capital, high modern industry, trade 3",0.33,1131708595.88,"large iron  (1900), copper  (1900), tungsten  (1900)"
-Britannia ,London,4937345.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.15,,,0.20,,,,250000.00,0.03,650.00,"high modern industry, trade 4",0.33,1275686514.38,moderate coal (1900)
-Britannia ,Oxford,2187920.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.05,,,0.20,,,,650000.00,0.07,600.00,"medium modern industry, trade 2",0.23,482436360.00,"large iron  (1910), moderate copper  (1910)"
-Britannia ,Liverpool,102578.00,0.30,-0.10,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,18079372.50,
-Britannia ,York,326338.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,57517072.50,
-Britannia ,Alnus City,1903560.00,0.30,0.00,0.00,0.20,0.15,0.08,,0.15,0.05,0.15,0.20,,,,2800000.00,0.28,600.00,"reg capital, medium modern industry, trade 4, large portal",0.63,556791300.00,"moderate gold (1900), gems (1900)"
-Britannia ,Lugnica,196193.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,,,0.20,,,,1000000.00,0.10,500.00,"low modern industry, trade 2",0.33,38993358.75,"moderate iron (1920), large tungsten (1920)"
-Britannia ,Pappelt,151473.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,28969211.25,
-Britannia ,Priestella,119015.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22761618.75,
-Britannia ,MacArthurville,147160.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.33,29248050.00,
-Britannia ,Wyndham,119015.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22761618.75,
-Britannia ,Lumias,113808.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,21765780.00,
-Britannia ,Shet,119256.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22807710.00,
-Britannia ,Leaves,441422.00,0.30,-0.10,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,100000.00,0.01,500.00,"low modern industry, trade 1",0.18,77800627.50,low iron (1925)
-Britannia ,Sand,273328.00,0.30,-0.10,0.00,0.20,-0.10,0.08,,0.00,,,0.20,,,,200000.00,0.02,500.00,"low modern industry, trade 1",0.18,48174060.00,large copper (1925)
-Britannia ,Stone,297505.00,0.10,-0.10,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,900000.00,0.09,200.00,"low medieval industry, trade 1",0.18,6991367.50,"large iron (1925), copper (1925), low silver (1925)"
-Britannia ,Cloud,583072.00,0.10,-0.10,0.00,0.20,0.00,0.08,,0.05,0.05,,0.20,,,,4000000.00,0.40,350.00,"reg capital, high medieval industry, trade 2",0.28,26019588.00,"large gold (1925), aluminum (1925) moderate gems (1925)"
-Britannia ,Mist,228405.00,0.10,-0.10,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.18,5367517.50,
-Britannia ,Ken Kokyu,98785.00,0.30,-0.10,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.18,6964342.50,
-Britannia ,Orth,1080329.00,0.30,0.00,0.00,,0.05,0.08,,0.10,0.05,,0.20,,,,,0.00,600.00,"reg capital, medium modern industry, trade 3, The Abyss",0.23,238212544.50,
-Britannia ,Siltvelt,2692853.00,0.30,0.00,0.00,,0.05,0.08,,0.05,,,0.20,,,,400000.00,0.04,650.00,"high modern industry, trade 2",0.13,590744626.88,"moderate iron (1900), aluminum (1900)"
-Britannia ,Batavia,3236203.00,0.30,0.00,0.00,,0.05,0.08,,0.05,,,0.20,,,,700000.00,0.07,650.00,"high modern industry, trade 2",0.13,709942033.13,"large iron (1900), copper (1900)"
-Britannia ,Nanjing,10507120.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.20,0.05,,0.20,,,,150000.00,0.02,350.00,"reg capital, high medieval industry, trade 5, ",0.18,1296315930.00,moderate copper (1925)
-Britannia ,Tonryuu,9771062.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.05,,,0.20,,,,1750000.00,0.18,350.00,"high medieval industry, trade 2",-0.03,1000312472.25,"large oil (1925), moderate coal (1925)"
-Britannia ,Ou Ki City,6034697.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.00,,,0.20,,,,700000.00,0.07,300.00,"medum medieval industry, trade 1",-0.08,502388525.25,"large iron (1925), aluminum (1925)"
-Britannia ,Kanyou,5979579.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.10,,,0.20,,,,2700000.00,0.27,350.00," high medieval industry, trade 3",0.03,643552189.88,"large gold (1925), low silver (1925)"
-Britannia ,Doldrey,816081.00,0.30,-0.25,0.00,0.10,0.00,0.08,,0.05,,,0.20,,,,3150000.00,0.32,300.00,"medium medieval industry, trade 2",-0.03,71611107.75,"huge iron (1925), large aluminum (1925), silver (1925), small gold (1925), gems (1925)"
-Britannia ,Guilin,526019.00,0.30,-0.25,0.00,0.10,0.05,0.08,,0.00,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",-0.08,29194054.50,
-Britannia ,Lurolona,580436.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,,,0.20,,,,500000.00,0.05,600.00,"medium modern industry, trade 2",0.33,138433986.00,large coal (1920)
-Britannia ,Cal Mira,451022.00,0.30,0.00,0.00,,0.05,0.08,,0.10,,,0.20,,,,1500000.00,0.15,650.00,"high modern industry, trade 3",0.18,103340415.75,large oil (1920)
-Britannia ,Rinistria,292046.00,0.30,0.00,0.00,0.20,0.15,0.08,,0.15,,,0.20,,,,300000.00,0.03,600.00,"medium modern industry, trade 4",0.43,74909799.00,small tungsten (1920)
-Britannia ,Potosi ,2221465.00,0.30,0.00,0.00,0.20,0.00,0.08,,0.10,,0.18,0.20,,,,5900000.00,5.90,650.00,"high modern industry, trade 3, ancient capital, oxford/star aquarium",0.56,673603724.63,"large adamantium (1920), silver (1920), anti-magicite (1920), gems (1920), giant iron (1920)"
-Britannia ,Melromarc,195926.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,1500000.00,0.15,500.00,"low modern industry, trade 1",0.28,37470847.50,large oil (1920)
-Britannia ,Mirso,178888.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,34212330.00,
-Britannia ,Gatecester ,342747.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.10,0.05,0.15,0.20,,,,2750000.00,2.75,600.00,"reg capital, medium modern industry, trade 3, large portal",0.58,97168774.50,"moderate iron (1920), large platinum (1920)"
-Britannia ,Machu,102174.00,0.30,0.00,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,3000000.00,0.30,500.00,"low modern industry, trade 1",0.28,19540777.50,"large platinum (1920), low tungsten (1920), silver (1920)"
-Britannia ,Hong Kong,109837.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,1900000.00,1.90,500.00,"low modern industry, trade 1",0.28,21006326.25,"moderate oil (1920), small gold (1920)"
-Britannia ,Starfort David,75849.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.15,,0.06,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 4, medium portal",0.49,16895364.75,
-Britannia ,Almeida City ,40761.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.05,,,0.20,,,15.00,1200000.00,1.20,500.00,"low modern industry, trade 2",0.33,8101248.75,"large iron (1920), aluminum (1920), coal (1920)"
-Britannia ,New Pendragon (CAP 500k),210441.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,0.05,,0.20,,,15.00,,0.00,500.00,"reg capital low modern industry, trade 2",0.38,43403456.25,
-Britannia ,New London,39464.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,7547490.00,
-Britannia ,Tintagel,16135.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,3085818.75,
-Britannia ,Acton ,4300.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,822375.00,
-Britannia ,Glasgow,2147.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,410613.75,
-Britannia ,Nottingham,1833.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,350561.25,
-Britannia ,Bristol,2165.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,414056.25,
-Britannia ,Douglas,2133.00,0.30,0.00,0.00,,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.08,343946.25,
-Britannia ,Avalon (CAP 300k),39891.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,0.05,,0.20,,,15.00,11300000.00,11.30,500.00,"reg capital, low modern industry, trade 2",0.38,8227518.75,"large Biest Stone (1920), huge gold (1920), tungsten (1920), oil (1920)"
-Britannia ,Brighton,2725.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,1350000.00,1.35,500.00,"low modern industry, trade 1",0.28,521156.25,"Moderate silver (1920), oil (1920)"
-Britannia ,Newcastle,1923.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,367773.75,
-Britannia ,Belfast,1953.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,350000.00,0.35,500.00,"low modern industry, trade 1,",0.28,373511.25,huge copper (1920)
-Britannia ,Leeds,2133.00,0.30,0.00,0.00,,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.08,343946.25,
-Britannia ,Sheffield,1831.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,350178.75,
-Britannia ,Eisberg,1196.00,0.30,0.00,0.00,0.10,0.00,0.08,,0.00,0.05,,0.20,,,15.00,2750000.00,2.75,500.00,"low modern industry, trade 1,",0.23,219765.00,large adamantium (1920)
-Britannia ,Eisland,1168.00,0.30,0.00,0.00,0.10,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.18,205860.00,
-Britannia ,Triangle,967981.00,0.30,0.00,0.00,0.15,0.10,0.02,,0.00,,,0.20,,,,4350000.00,0.44,300.00,"medium medieval industry, trade 1,",0.17,101841281.01,"large damestear (1920), black opal (1920), moderate silver (1920)"
-Britannia ,Salisbury,953572.00,0.30,0.00,0.00,0.15,0.10,0.02,,0.00,,,0.20,,,,1300000.00,0.13,300.00,"medium medieval industry, trade 1,",0.17,100325310.12,"large aluminum (1920), low gold (1920), silver (1920)"
-Britannia ,Aeria,1563.00,0.30,0.00,0.00,0.15,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,200.00,"low modern industry, trade 1",0.23,114880.50,
-Britannia ,Hawk,1572.00,0.30,0.00,0.00,0.15,0.10,0.08,,0.00,,,0.20,,,15.00,3000000.00,0.30,200.00,"low modern industry, trade 1",0.23,115542.00,
-Britannia ,Illyasville,1563.00,0.30,0.00,0.00,0.15,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,200.00,"low modern industry, trade 1",0.23,114880.50,
-Britannia ,Jewecester,977970.00,0.30,0.00,0.00,0.15,0.10,0.02,,0.00,0.05,0.23,0.20,,,,1800000.00,0.18,300.00,"Reg capital, medium medieval industry, trade 1, large portal, university of Rhodesia (3)",0.45,127537067.70,"large tungsten (1920), small copper (1920), platinum (1920)"
+Britannia,Pendragon,12131190.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.20,0.10,0.16,0.20,,,,,0.00,700.00,"Nat Capital, very high modern industry, trade 5, medium portal",0.64,4165244086.50,
+Britannia,Axel City,867245.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.00,,,0.20,,,,,0.00,600.00,"medium modern industry, trade 1",0.18,183422317.50,
+Britannia,Tokyo,3878949.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.15,,0.20,0.20,,,,1000000.00,0.10,650.00,"high modern industry, trade 4, large portal",0.53,1153502458.88,"moderate oil (1900), unused medium sakuradite"
+Britannia,Kyoto,107926.00,0.30,-0.10,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,19021957.50,
+Britannia,Akiba,2187382.00,0.30,-0.10,0.00,0.20,0.05,0.08,,0.10,,,0.20,,,,1300000.00,0.13,600.00,"medium modern industry, trade 3",0.28,502004169.00,moderate gems (1900)
+Britannia,Gloucester,782442.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.05,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.23,143773717.50,
+Britannia,Alcanretia,269949.00,0.30,-0.10,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,47578511.25,
+Britannia,Camelot,4380101.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.10,0.05,,0.20,,,,1450000.00,0.15,650.00,"reg capital, high modern industry, trade 3",0.33,1131708595.88,"large iron  (1900), copper  (1900), tungsten  (1900)"
+Britannia,London,4937345.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.15,,,0.20,,,,250000.00,0.03,650.00,"high modern industry, trade 4",0.33,1275686514.38,moderate coal (1900)
+Britannia,Oxford,2187920.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.05,,,0.20,,,,650000.00,0.07,600.00,"medium modern industry, trade 2",0.23,482436360.00,"large iron  (1910), moderate copper  (1910)"
+Britannia,Liverpool,102578.00,0.30,-0.10,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,18079372.50,
+Britannia,York,326338.00,0.30,-0.10,0.00,0.20,0.15,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,57517072.50,
+Britannia,Alnus City,1903560.00,0.30,0.00,0.00,0.20,0.15,0.08,,0.15,0.05,0.15,0.20,,,,2800000.00,0.28,600.00,"reg capital, medium modern industry, trade 4, large portal",0.63,556791300.00,"moderate gold (1900), gems (1900)"
+Britannia,Lugnica,196193.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,,,0.20,,,,1000000.00,0.10,500.00,"low modern industry, trade 2",0.33,38993358.75,"moderate iron (1920), large tungsten (1920)"
+Britannia,Pappelt,151473.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,28969211.25,
+Britannia,Priestella,119015.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22761618.75,
+Britannia,MacArthurville,147160.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.33,29248050.00,
+Britannia,Wyndham,119015.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22761618.75,
+Britannia,Lumias,113808.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,21765780.00,
+Britannia,Shet,119256.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22807710.00,
+Britannia,Leaves,441422.00,0.30,-0.10,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,100000.00,0.01,500.00,"low modern industry, trade 1",0.18,77800627.50,low iron (1925)
+Britannia,Sand,273328.00,0.30,-0.10,0.00,0.20,-0.10,0.08,,0.00,,,0.20,,,,200000.00,0.02,500.00,"low modern industry, trade 1",0.18,48174060.00,large copper (1925)
+Britannia,Stone,297505.00,0.10,-0.10,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,900000.00,0.09,200.00,"low medieval industry, trade 1",0.18,6991367.50,"large iron (1925), copper (1925), low silver (1925)"
+Britannia,Cloud,583072.00,0.10,-0.10,0.00,0.20,0.00,0.08,,0.05,0.05,,0.20,,,,4000000.00,0.40,350.00,"reg capital, high medieval industry, trade 2",0.28,26019588.00,"large gold (1925), aluminum (1925) moderate gems (1925)"
+Britannia,Mist,228405.00,0.10,-0.10,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.18,5367517.50,
+Britannia,Ken Kokyu,98785.00,0.30,-0.10,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.18,6964342.50,
+Britannia,Orth,1080329.00,0.30,0.00,0.00,,0.05,0.08,,0.10,0.05,,0.20,,,,,0.00,600.00,"reg capital, medium modern industry, trade 3, The Abyss",0.23,238212544.50,
+Britannia,Siltvelt,2692853.00,0.30,0.00,0.00,,0.05,0.08,,0.05,,,0.20,,,,400000.00,0.04,650.00,"high modern industry, trade 2",0.13,590744626.88,"moderate iron (1900), aluminum (1900)"
+Britannia,Batavia,3236203.00,0.30,0.00,0.00,,0.05,0.08,,0.05,,,0.20,,,,700000.00,0.07,650.00,"high modern industry, trade 2",0.13,709942033.13,"large iron (1900), copper (1900)"
+Britannia,Nanjing,10507120.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.20,0.05,,0.20,,,,150000.00,0.02,350.00,"reg capital, high medieval industry, trade 5, ",0.18,1296315930.00,moderate copper (1925)
+Britannia,Tonryuu,9771062.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.05,,,0.20,,,,1750000.00,0.18,350.00,"high medieval industry, trade 2",-0.03,1000312472.25,"large oil (1925), moderate coal (1925)"
+Britannia,Ou Ki City,6034697.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.00,,,0.20,,,,700000.00,0.07,300.00,"medum medieval industry, trade 1",-0.08,502388525.25,"large iron (1925), aluminum (1925)"
+Britannia,Kanyou,5979579.00,0.30,-0.25,0.00,0.10,0.15,0.08,,0.10,,,0.20,,,,2700000.00,0.27,350.00," high medieval industry, trade 3",0.03,643552189.88,"large gold (1925), low silver (1925)"
+Britannia,Doldrey,816081.00,0.30,-0.25,0.00,0.10,0.00,0.08,,0.05,,,0.20,,,,3150000.00,0.32,300.00,"medium medieval industry, trade 2",-0.03,71611107.75,"huge iron (1925), large aluminum (1925), silver (1925), small gold (1925), gems (1925)"
+Britannia,Guilin,526019.00,0.30,-0.25,0.00,0.10,0.05,0.08,,0.00,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",-0.08,29194054.50,
+Britannia,Lurolona,580436.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,,,0.20,,,,500000.00,0.05,600.00,"medium modern industry, trade 2",0.33,138433986.00,large coal (1920)
+Britannia,Cal Mira,451022.00,0.30,0.00,0.00,,0.05,0.08,,0.10,,,0.20,,,,1500000.00,0.15,650.00,"high modern industry, trade 3",0.18,103340415.75,large oil (1920)
+Britannia,Rinistria,292046.00,0.30,0.00,0.00,0.20,0.15,0.08,,0.15,,,0.20,,,,300000.00,0.03,600.00,"medium modern industry, trade 4",0.43,74909799.00,small tungsten (1920)
+Britannia,Potosi ,2221465.00,0.30,0.00,0.00,0.20,0.00,0.08,,0.10,,0.18,0.20,,,,5900000.00,5.90,650.00,"high modern industry, trade 3, ancient capital, oxford/star aquarium",0.56,673603724.63,"large adamantium (1920), silver (1920), anti-magicite (1920), gems (1920), giant iron (1920)"
+Britannia,Melromarc,195926.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,1500000.00,0.15,500.00,"low modern industry, trade 1",0.28,37470847.50,large oil (1920)
+Britannia,Mirso,178888.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,34212330.00,
+Britannia,Gatecester ,342747.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.10,0.05,0.15,0.20,,,,2750000.00,2.75,600.00,"reg capital, medium modern industry, trade 3, large portal",0.58,97168774.50,"moderate iron (1920), large platinum (1920)"
+Britannia,Machu,102174.00,0.30,0.00,0.00,0.20,0.00,0.08,,0.00,,,0.20,,,,3000000.00,0.30,500.00,"low modern industry, trade 1",0.28,19540777.50,"large platinum (1920), low tungsten (1920), silver (1920)"
+Britannia,Hong Kong,109837.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,,1900000.00,1.90,500.00,"low modern industry, trade 1",0.28,21006326.25,"moderate oil (1920), small gold (1920)"
+Britannia,Starfort David,75849.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.15,,0.06,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 4, medium portal",0.49,16895364.75,
+Britannia,Almeida City ,40761.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.05,,,0.20,,,15.00,1200000.00,1.20,500.00,"low modern industry, trade 2",0.33,8101248.75,"large iron (1920), aluminum (1920), coal (1920)"
+Britannia,New Pendragon (CAP 500k),210441.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,0.05,,0.20,,,15.00,,0.00,500.00,"reg capital low modern industry, trade 2",0.38,43403456.25,
+Britannia,New London,39464.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,7547490.00,
+Britannia,Tintagel,16135.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,3085818.75,
+Britannia,Acton ,4300.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,822375.00,
+Britannia,Glasgow,2147.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,410613.75,
+Britannia,Nottingham,1833.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,350561.25,
+Britannia,Bristol,2165.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,414056.25,
+Britannia,Douglas,2133.00,0.30,0.00,0.00,,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.08,343946.25,
+Britannia,Avalon (CAP 300k),39891.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.05,0.05,,0.20,,,15.00,11300000.00,11.30,500.00,"reg capital, low modern industry, trade 2",0.38,8227518.75,"large Biest Stone (1920), huge gold (1920), tungsten (1920), oil (1920)"
+Britannia,Brighton,2725.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,1350000.00,1.35,500.00,"low modern industry, trade 1",0.28,521156.25,"Moderate silver (1920), oil (1920)"
+Britannia,Newcastle,1923.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,367773.75,
+Britannia,Belfast,1953.00,0.30,0.00,0.00,0.20,0.05,0.08,,0.00,,,0.20,,,15.00,350000.00,0.35,500.00,"low modern industry, trade 1,",0.28,373511.25,huge copper (1920)
+Britannia,Leeds,2133.00,0.30,0.00,0.00,,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.08,343946.25,
+Britannia,Sheffield,1831.00,0.30,0.00,0.00,0.20,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,350178.75,
+Britannia,Eisberg,1196.00,0.30,0.00,0.00,0.10,0.00,0.08,,0.00,0.05,,0.20,,,15.00,2750000.00,2.75,500.00,"low modern industry, trade 1,",0.23,219765.00,large adamantium (1920)
+Britannia,Eisland,1168.00,0.30,0.00,0.00,0.10,0.05,0.08,,0.00,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.18,205860.00,
+Britannia,Triangle,967981.00,0.30,0.00,0.00,0.15,0.10,0.02,,0.00,,,0.20,,,,4350000.00,0.44,300.00,"medium medieval industry, trade 1,",0.17,101841281.01,"large damestear (1920), black opal (1920), moderate silver (1920)"
+Britannia,Salisbury,953572.00,0.30,0.00,0.00,0.15,0.10,0.02,,0.00,,,0.20,,,,1300000.00,0.13,300.00,"medium medieval industry, trade 1,",0.17,100325310.12,"large aluminum (1920), low gold (1920), silver (1920)"
+Britannia,Aeria,1563.00,0.30,0.00,0.00,0.15,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,200.00,"low modern industry, trade 1",0.23,114880.50,
+Britannia,Hawk,1572.00,0.30,0.00,0.00,0.15,0.10,0.08,,0.00,,,0.20,,,15.00,3000000.00,0.30,200.00,"low modern industry, trade 1",0.23,115542.00,
+Britannia,Illyasville,1563.00,0.30,0.00,0.00,0.15,0.10,0.08,,0.00,,,0.20,,,15.00,,0.00,200.00,"low modern industry, trade 1",0.23,114880.50,
+Britannia,Jewecester,977970.00,0.30,0.00,0.00,0.15,0.10,0.02,,0.00,0.05,0.23,0.20,,,,1800000.00,0.18,300.00,"Reg capital, medium medieval industry, trade 1, large portal, university of Rhodesia (3)",0.45,127537067.70,"large tungsten (1920), small copper (1920), platinum (1920)"
 Calimshan,Oreme,571668.00,0.05,0.00,0.00,0.05,0.15,0.01,,0.05,0.10,,0.00,-0.05,0.12,,150000.00,0.02,300.00,"Nat capital, medium medieval industry, trade 2, all Asabi pop ",0.16,9955598.22,"low copper, iron"
 Calimshan,Teshburl,278346.00,0.05,0.00,0.00,0.05,0.15,0.01,,0.00,,,0.00,-0.05,0.12,,,0.00,200.00,"low medieval industry, trade 1, all asabi pop",0.01,2814078.06,
 Calimshan,Memnon,112726.00,0.05,0.00,0.00,0.05,0.15,0.01,,0.00,,,0.00,-0.05,,,,0.00,200.00,"low medieval industry, trade 1, all harssaf pop",0.01,1139659.86,
