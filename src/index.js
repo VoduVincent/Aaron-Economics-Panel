@@ -1,6 +1,6 @@
 const express = require("express")
 const fs = require("fs")
-
+const path = require('path');
 const app = express()
 
 const port = 8000;
@@ -17,10 +17,12 @@ app.use(express.static('../data/'))
 app.get("/", function(req,res) {
     res.sendFile(__dirname + '/index.html');
 })
+
+
 async function cityTick() {
     console.time("Execution Time")
-    //Reading all the diffrent files to find out the largest number, wich is thr current year
-    let datadir = fs.readdirSync("data/cities")
+    //Reading all the diffrent files to find out the largest number, wich is thr current year 
+    let datadir = fs.readdirSync("data/cities/")
 
     console.log(datadir)
 
@@ -30,7 +32,7 @@ async function cityTick() {
     current_year = datadir[0].replace(/\.[^/.]+$/, "")
 
     //Load Current Years City CSV as JSON
-    year_json = await csvtojson().fromFile("./data/" + current_year + ".csv")
+    year_json = await csvtojson().fromFile(`./data/cities/${current_year}.csv`)
 
     //Calculate new Net Prosperity
     await year_json.forEach(element => element["Net_Prosperity"] = Number(element["Prosperity_Regional"]) + Number(element["Prosperity_National"]) + Number(element["Road_Level"]) + Number(element["Trade"]) + Number(element["Capital"]) + Number(element["Special_Mod"]) + Number(element["Pop_Tax"]) + Number(element["Literacy"]))
@@ -48,16 +50,33 @@ async function cityTick() {
 
     let csv = await parser.parse(year_json).promise()
     
-    fs.writeFileSync("./data/" + (Number(current_year) + 1) + ".csv",csv)
-
-    console.log("Tick Complete")
+    fs.writeFileSync("./data/cities/" + (Number(current_year) + 1) + ".csv",csv)
+    console.log("City Tick Complete")
     console.timeEnd("Execution Time")
 }
+
+async function nationTick(){
+    console.time("Execution Time")
+    //Reading all the diffrent files to find out the largest number, wich is thr current year 
+    let datadir = fs.readdirSync("data/nations/")
+
+    console.log(datadir)
+
+    datadir.sort(function(a,b){
+        return Number(b.replace(/\.[^/.]+$/, "")) - Number(a.replace(/\.[^/.]+$/, "")) 
+    })
+    current_year = datadir[0].replace(/\.[^/.]+$/, "")
+
+    console.log("Nation Tick Complete")
+    console.timeEnd("Execution Time")
+}
+
 app.post("/",function(req,res){
     console.log("Ticking")
     //Start the Tick
     cityTick()
 
+    //nationTick()
 })
 
 
