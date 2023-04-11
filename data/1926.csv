@@ -1,0 +1,575 @@
+id,Empire,Name,Population,Tax,Prosperity_Regional,Prosperity_National,Land_Infra,Sea_Infra,Terrain,Literacy,War_Population,Trade,Capital,Special_Pop,Special_Prod,Healthcare_Spending,Pop_Tax_Mod,Pop_Growth_Mod,Colonial_Boost,Resource_Income,Resource_Boost,Tax_Base_Industry,Special_Economic_Notes,Net_Prosperity,Net_Income,Resources_Notes,Surface,Occupied_By,Resistance
+1,Magic Cities,Aarhus,4215.00,0.30,0.00,0.05,,0.20,0.05,0.03,,0.00,,,,0.00,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.08,679668.75,,Overworld,,0
+2,Britannia,Acton ,4300.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,822375.00,,Overworld,,0
+3,Theocracy,Aenos,153030.00,0.05,0.00,-0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,,,,400000.00,0.04,200.00,"low medieval industry, trade 1",0.06,1623648.30,"moderate copper, iron",Overworld,,0
+4,High Empire of Laputarches,Aerestar (100k Cap),11025.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,,0.20,,2.20,0.20,,,,0.00,500.00,"low modern industry, trade 1, aerial transportation",0.90,523687.50,,Overworld,,0
+5,Britannia,Aeria,1563.00,0.30,0.00,0.00,0.15,0.15,0.10,0.08,,0.00,,,,0.20,,,15.00,,0.00,200.00,"low modern industry, trade 1",0.23,114880.50,,Overworld,,0
+6,Aglarond,Aglarond,2867465.00,0.10,0.15,0.15,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,0.10,-0.20,,3000000.00,0.30,350.00,"Nat capital, high medieval industry, trade 3, all dwarf pop",0.71,171718141.53,"Large iron, gold",Underdark,,0
+7,Kingdom of Numenor,Airspur,188908.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,2948853.88,,Overworld,,0
+8,Britannia,Akiba,2187382.00,0.30,-0.10,0.00,0.20,0.20,0.05,0.08,,0.10,,,,0.20,,,,1300000.00,0.13,600.00,"medium modern industry, trade 3",0.28,502004169.00,moderate gems (1900),Overworld,,0
+9,Free Cities League,Alabasta,2342192.00,0.30,0.05,0.00,0.20,0.20,-0.10,0.08,,0.05,,,,0.20,,,,2250000.00,0.23,600.00,"medium modern industry, trade 2",0.38,579692520.00,"large iron (1900), tungsten (1900), moderate oil (1900)",Overworld,,0
+10,Babylon,Alalakh,783071.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.05,,,,0.20,,,,1500000.00,0.15,200.00,"low medieval industry, trade 2",0.49,69771626.10,large oil,Overworld,,0
+11,Free Cities League,Albany,1770804.00,0.30,0.25,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,2500000.00,0.25,500.00,"low modern industry, trade 1",0.53,405071415.00,large platinum (1920),Overworld,,0
+12,Britannia,Alcanretia,269949.00,0.30,-0.10,0.00,0.20,0.20,0.00,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,47578511.25,,Overworld,,0
+13,Syndria,Alkabir,41391.00,0.30,0.25,0.15,0.20,0.20,-0.05,0.08,,0.00,,0.20,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,11641218.75,,Overworld,,0
+14,Kingdom of Numenor,Almaida,291217.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,4545897.37,,Overworld,,0
+15,Britannia,Almeida City ,40761.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.05,,,,0.20,,,15.00,1200000.00,1.20,500.00,"low modern industry, trade 2",0.33,8101248.75,"large iron (1920), aluminum (1920), coal (1920)",Overworld,,0
+16,Britannia,Alnus City,1903560.00,0.30,0.00,0.00,0.20,0.20,0.15,0.08,,0.15,0.05,0.15,,0.20,,,,2800000.00,0.28,600.00,"reg capital, medium modern industry, trade 4, large portal",0.63,556791300.00,"moderate gold (1900), gems (1900)",Overworld,,0
+17,Syndria,Altilal,2546.00,0.30,0.25,0.15,0.20,0.20,0.05,0.08,,0.00,,0.20,,0.20,,,15.00,3000000.00,3.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,716062.50,"large jacinth (1920), moderate black sapphire (1920)",Overworld,,0
+18,Sundabar,Altonroos,2107.00,0.05,0.25,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.08,-0.10,,1550000.00,0.16,200.00,"low medievel industry, trade 1, all sun elf pop",0.59,33522.37,"large gems, moderate coal",Overworld,,0
+19,Amon Rudh,Amon Rudh,3603753.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,0.10,-0.20,,3600000.00,0.36,350.00,"Nat capital, High medieval industry, trade 3, all dwarven pop",0.61,203197612.91,"large silver, copper, gems, low black sapphire, sakuradite",Overworld,,0
+20,Macedon,Amphipolis,515457.00,0.05,0.05,0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,,,,500000.00,0.05,200.00,"low medieval industry, trade 2",0.26,6499912.77,large iron,Overworld,,0
+21,Kingdom of Belfalas,Amroth,150458.00,0.05,-0.15,-0.15,0.00,0.00,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",-0.24,1144985.38,,Overworld,,0
+22,Syndria,Amsterdam,102424.00,0.30,0.25,0.15,,0.20,0.05,0.08,,0.20,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 3",0.68,25734030.00,,Overworld,,0
+23,The Great Jungle,Andoridge,4048192.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+24,Lux Imperium,Andstead,316253.00,0.10,0.25,0.15,0.10,0.10,0.10,0.01,,0.05,,,,0.00,-0.15,0.30,,,0.00,200.00,"low medieval industry, trade 2, all kuo-toa pop",0.41,8924659.66,,Underdark,,0
+25,Kingdom of Numenor,Anduine,2550115.00,0.05,0.25,0.05,0.10,0.10,0.15,0.01,,0.15,0.05,,,0.00,0.15,,,,0.00,300.00,"reg capital, medium medieval industry, trade 4, all numenor pop",0.76,67361287.73,,Overworld,,0
+26,Calimshan,Ankhapur,268438.00,0.05,0.00,0.00,0.05,0.05,0.15,0.01,,0.00,,,,0.00,0.00,0.10,,,0.00,200.00,"low medieval industry, trade 1, all Thri-kreen pop",0.06,2848127.18,,Overworld,,0
+27,High Empire of Laputarches,Anlbel,1801.00,0.10,0.00,0.15,0.00,0.00,0.15,0.04,,0.00,,0.15,,0.20,0.05,-0.10,15.00,,0.00,200.00,"low medieval industry, trade 1, all elven pop heavenly paradise",0.39,49923.72,,Overworld,,0
+28,The Great Jungle,Antatin,4048192.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+29,Magic Cities,Aquileia,2226.00,0.30,0.05,0.05,,0.20,0.10,0.08,,0.00,,0.08,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,  magical machinery",0.26,420714.00,,Overworld,,0
+30,Darchar,Arcgend,516720.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,300.00,"medium medieval, trade 2, all greenspawn",0.26,19532016.00,,Underdark,,0
+31,High Empire of Laputarches,Ardeep,471409.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,13538866.48,,Overworld,,0
+32,Sparta,Argos,306200.00,0.05,0.05,0.05,0.05,0.05,0.00,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,3551920.00,,Overworld,,0
+33,Kingdom of Numenor,Armenelos,6300061.00,0.05,0.25,0.05,0.10,0.10,0.15,0.01,,0.20,0.10,,,0.00,0.15,,,,0.00,350.00,"Nat capital, high medieval industry, trade 5, all numenor pop",0.86,205177236.62,,Overworld,,0
+34,Bahamut's Realm,Ascun,25261.00,0.10,0.05,0.05,0.05,0.05,0.10,0.01,,,,,,0.00,0.15,-0.40,,,0.00,200.00,"low medieval industry, trade 1, all dragonborn",0.31,661838.20,,Underdark,,0
+35,Babylon,Assur,663702.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,57144742.20,,Overworld,,0
+36,Lux Imperium,Astrinas,31081.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all drow pop",0.41,877105.82,,Underdark,,0
+37,Syndria,Atar-Nublar (CAP 2M),344499.00,0.30,0.25,0.15,0.20,0.20,0.15,0.08,,0.10,0.05,0.55,,0.20,,,15.00,3300000.00,3.30,600.00,"Reg Capital, medium modern industry, trade 3, huge portal, Unique Spices S, Galleylaw",1.38,147273322.50,"large syndrian sapphire, large oil (1920), gems (1920)",Overworld,,0
+38,Kingdom of Athala,Athala,50542.00,0.10,0.00,0.00,0.05,0.05,-0.05,0.01,,,0.10,,,0.00,,,,,0.00,200.00,"nat capital, low medieval, trade 1",0.16,1172574.40,,Underdark,,0
+39,Lux Imperium,Athemore,1048972.00,0.10,0.25,0.15,0.10,0.10,0.15,0.01,,0.10,,,,0.00,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 3, all drow pop",0.66,52270274.76,,Underdark,,0
+40,Athens,Athens,514157.00,0.05,0.05,0.05,0.05,0.05,0.00,0.01,,0.05,0.10,,,0.00,,,,,0.00,200.00,"nat capital, low medieval industry, trade 2",0.31,6735456.70,,Overworld,,0
+41,Kingdom of Numenor,Athkatla,346332.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,5406242.52,,Overworld,,0
+42,Magic Cities,Attakai,109652.00,0.30,0.15,0.05,,0.20,0.10,0.08,,0.00,,0.08,,0.20,,,,,0.00,500.00,"low modern industry, trade 1, magical machinery",0.36,22369008.00,,Overworld,,0
+43,Free Cities League,Auburn,1226599.00,0.30,-0.15,0.00,0.15,0.15,0.10,0.08,,0.00,,,,0.20,0.05,-0.10,,,0.00,500.00,"low modern industry, trade 1, large elf pop",0.13,206988581.25,,Overworld,,0
+44,Millenium Fatherland,Augsburg,3263.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,648521.25,,Overworld,,0
+45,Free Cities League,Augusta,3643478.00,0.30,0.05,0.00,0.20,0.20,-0.10,0.08,,0.05,,,,0.20,,,,3300000.00,0.33,600.00,"medium modern industry, trade 2",0.38,901760805.00,"large gems (1900), oil (1900)",Overworld,,0
+46,Britannia,Avalon (CAP 300k),39891.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.05,0.05,,,0.20,,,15.00,11300000.00,11.30,500.00,"reg capital, low modern industry, trade 2",0.38,8227518.75,"large Biest Stone (1920), huge gold (1920), tungsten (1920), oil (1920)",Overworld,,0
+47,Avernien Kingdom,Avernien,2302030.00,0.05,0.10,0.10,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,,,,,0.00,300.00,"Nat Capital, medium medieval industry, trade 3",0.51,52175509.95,,Overworld,,0
+48,Britannia,Axel City,867245.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.00,,,,0.20,,,,,0.00,600.00,"medium modern industry, trade 1",0.18,183422317.50,,Overworld,,0
+49,Lux Imperium,Azrose,579797.00,0.10,0.25,0.15,0.10,0.10,0.10,0.01,,0.05,,,,0.00,-0.15,0.30,,,0.00,200.00,"low medieval industry, trade 2, all kuo-toa pop",0.41,16361871.34,,Underdark,,0
+50,High Empire of Laputarches,Azuros (2m Cap),1440.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,,0.20,,2.20,0.20,,15.00,,0.00,500.00,"low modern industry, trade 1, aerial transportation",0.90,68400.00,,Overworld,,0
+51,Babylon,Babylon,12262449.00,0.30,0.25,0.05,0.10,0.10,0.15,0.04,,0.10,0.10,0.10,,0.20,,,,400000.00,0.04,400.00,"Nat Capital, very high medieval industry, trade 3",0.74,2553041881.80,"moderate iron, copper",Overworld,,0
+52,Babylon,Baghdad,114315.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,9842521.50,,Overworld,,0
+53,Bahamut's Realm,Bahamut City,508250.00,0.10,0.05,0.05,0.10,0.10,0.05,0.01,,0.05,0.10,,,0.00,0.15,-0.40,,,0.00,300.00,"national capital, medium medieval, trade 2, all dragonborn",0.51,23023725.00,,Underdark,,0
+54,Free Cities League,Balar,202532.00,0.30,-0.15,0.00,,0.20,0.00,0.02,,0.05,,,,0.20,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 2, all elven pop",-0.04,11726602.80,,Overworld,,0
+55,Bahamut's Realm,Balaur,50522.00,0.10,0.05,0.05,0.10,0.10,0.05,0.01,,,,,,0.00,0.15,-0.40,,,0.00,200.00,"low medieval industry, trade 1, all dragonborn",0.36,1374198.40,,Underdark,,0
+56,Magic Cities,Balbadd,6703753.00,0.30,0.00,0.05,0.20,0.20,-0.05,0.08,,0.10,0.05,,,0.20,,,,,0.00,650.00,"reg capital, high modern industry, trade 3",0.48,1934703115.80,,Overworld,,0
+57,Free Cities League,Baltimore,1000.00,0.30,-0.10,0.00,0.05,0.05,-0.05,0.08,,0.00,,,,0.20,,,17.50,,0.00,500.00,"low modern industry, trade 2",0.03,153750.00,,Overworld,,0
+58,Britannia,Batavia,3236203.00,0.30,0.00,0.00,,0.20,0.05,0.08,,0.05,,,,0.20,,,,700000.00,0.07,650.00,"high modern industry, trade 2",0.13,709942033.13,"large iron (1900), copper (1900)",Overworld,,0
+59,Free Cities League,Beacon,3483504.00,0.30,-0.15,0.00,0.15,0.15,0.05,0.08,,0.05,,0.10,,0.20,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 2, large elf Pop, unique spices",0.28,399732084.00,,Overworld,,0
+60,Amon Rudh,Beleg,669681.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,3000000.00,0.30,200.00,"low medieval industry, trade 1, all dwarven pop",0.41,18898397.82,"moderate gold, platinum",Overworld,,0
+61,Belegost,Belegost,6360906.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,0.10,-0.20,,6600000.00,0.66,350.00,"Nat capital, high medieval industry, trade 3, all dwarven pop",0.61,358659684.81,"huge iron, copper, large coal, moderate gold, jacinth, small mithril",Overworld,,0
+62,Britannia,Belfast,1953.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,350000.00,0.35,500.00,"low modern industry, trade 1,",0.28,373511.25,huge copper (1920),Overworld,,0
+63,Pluvianos,Beluarian,338391.00,0.05,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,0.05,,,0.00,200.00,"low medieval industry, trade 1, half finhead, half hornhead pop",0.36,4605501.51,,Overworld,,0
+64,Dragon Slayer Coalition,Berdusk,1055778.00,0.10,0.05,0.05,0.10,0.10,0.00,0.01,,0.05,,,,0.00,,,,8900000.00,0.89,300.00,"medium medieval industry, trade 2",0.26,39908408.40,"large beskar, low mithril",Underdark,,0
+65,Kingdom of Numenor,Bergbau,389930.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,33300000.00,3.33,200.00,"low medieval industry, trade 1, all numenor pop",0.56,6086807.30,"huge beskar, mithril, adamantium",Overworld,,0
+66,Millenium Fatherland,Berun,5670021.00,0.30,0.20,0.15,0.20,0.20,0.10,0.08,,0.05,0.10,0.05,,0.20,,,,350000.00,0.04,650.00,"reg capital high modern industry, trade 2, dinosaur labor",0.83,2017818723.38,"moderate coal (1900), low iron (1900)",Overworld,,0
+67,High Empire of Laputarches,Bierg,510237.00,0.10,0.25,0.15,0.15,0.15,0.15,0.04,,0.00,,,,0.20,0.10,-0.20,,11500000.00,1.15,500.00,"low modern industry, trade 1, all dwarven pop",0.69,43012979.10,"large gold (1925), low beskar (1925), mithril (1925)",Overworld,,0
+68,Free Cities League,Binghamton,272163.00,0.30,0.25,0.00,0.00,0.00,0.05,0.08,,0.05,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.38,56133618.75,,Overworld,,0
+69,Millenium Fatherland,Bismarck,7051.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,1401386.25,,Overworld,,0
+70,Gracklstun Kingdom,Blingdenstone,312627.00,0.10,0.05,0.00,0.05,0.05,0.15,0.01,,,,,,0.00,-0.05,0.10,,1700000.00,0.17,200.00,"low medieval industry, trade 1, all deep gnomes",0.06,6627692.40,"large aluminum, copper, small adamantium",Underdark,,0
+71,Magic Cities,Boulder,1025094.00,0.30,-0.10,0.05,0.10,0.10,0.00,0.02,,0.05,,,,0.00,,,,750000.00,0.08,300.00,"medium medieval industry, trade 2",0.12,102868182.90,huge iron (1920),Overworld,,0
+72,Millenium Fatherland,Braunschweig,1416.00,0.30,0.05,0.15,0.15,0.15,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,2000000.00,2.00,500.00,"low modern industry, trade 1, dinosaur labor",0.48,313290.00,huge oil (1920),Overworld,,0
+73,High Empire of Laputarches,Bree,136172.00,0.10,0.15,0.15,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,3910859.84,,Overworld,,0
+74,Millenium Fatherland,Bremen,109725.00,0.30,0.20,0.15,0.20,0.20,0.05,0.08,,0.00,,0.05,,0.20,,,,,0.00,500.00,"low modern, trade 1 dinosaur labor",0.68,27568406.25,,Overworld,,0
+75,Britannia,Brighton,2725.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,15.00,1350000.00,1.35,500.00,"low modern industry, trade 1",0.28,521156.25,"Moderate silver (1920), oil (1920)",Overworld,,0
+76,Britannia,Bristol,2165.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,414056.25,,Overworld,,0
+77,Kingdom of Gondolin,Brithombar,327442.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,3801601.62,,Overworld,,0
+78,Kingdom of Gondolin,Brithon,431909.00,0.05,0.20,-0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.31,5662326.99,,Overworld,,0
+79,Lux Imperium,Brutset,527089.00,0.10,0.25,0.15,0.10,0.10,0.10,0.01,,0.05,,,,0.00,-0.15,0.30,,,0.00,200.00,"low medieval industry, trade 2, all kuo-toa pop",0.41,14874451.58,,Underdark,,0
+80,Free Cities League,Buffalo,487065.00,0.30,0.05,0.00,0.20,0.20,-0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.33,96804168.75,,Overworld,,0
+81,Magic Cities,Cagliostro,2288207.00,0.30,0.15,0.15,0.20,0.20,0.05,0.08,,0.15,,0.13,,0.20,,,,1250000.00,0.13,600.00,"medium modern industry, trade 4, small portal, Ancient capital",0.86,766091703.60,"large coal (1900), tungsten (1900)",Overworld,,0
+82,Britannia,Cal Mira,451022.00,0.30,0.00,0.00,,0.20,0.05,0.08,,0.10,,,,0.20,,,,1500000.00,0.15,650.00,"high modern industry, trade 3",0.18,103340415.75,large oil (1920),Overworld,,0
+83,Mazulun,Calorem Cordis,2077172.00,0.10,0.20,0.15,0.10,0.10,0.15,0.01,,,0.10,,,0.00,,,,3100000.00,0.31,300.00,"nat capital, medium medieval industry, trade 1, all firenewt",0.56,97211649.60,"large gold, silver",Underdark,,0
+84,Magic Cities,Cambridge,3344340.00,0.30,-0.10,0.05,0.10,0.10,-0.15,0.03,,0.05,0.05,,,0.00,,,,650000.00,0.07,350.00,"reg capital, high medieval industry, trade 2",0.18,412607947.50,"large iron (1920), moderate copper (1920)",Overworld,,0
+85,Britannia,Camelot,4380101.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.10,0.05,,,0.20,,,,1450000.00,0.15,650.00,"reg capital, high modern industry, trade 3",0.33,1131708595.88,"large iron  (1900), copper  (1900), tungsten  (1900)",Overworld,,0
+86,High Empire of Laputarches,Caras Galadhon,147374.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.00,0.05,,,0.20,0.05,-0.10,,,0.00,200.00,"reg capital, low medieval industry, trade 1, all elven pop",0.54,4527329.28,,Overworld,,0
+87,High Empire of Laputarches,Carnost,105530.00,0.10,0.25,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.54,3241881.60,,Overworld,,0
+88,Magic Cities,Carthage,3563983.00,0.30,0.00,0.05,0.20,0.20,-0.05,0.08,,0.05,,,,0.20,,,,350000.00,0.04,600.00,"medium modern industry, trade 2",0.38,885293377.20,moderate silver (1900),Overworld,,0
+89,Castle Perilous,Castle Perilous,845938.00,0.01,0.00,0.00,0.00,0.00,0.15,0.01,,0.00,0.10,,,0.00,-0.10,5.00,,,0.00,200.00,"Nat capital, low medieval industry, trade 1, all orcish pops",0.01,1710486.64,,Overworld,,0
+90,Cecilia,Cecilia,80980.00,0.10,-0.05,-0.05,0.05,0.05,0.00,0.01,,,0.10,,,0.00,,,,,0.00,200.00,"nat capital, low medieval, trade 1",0.06,1708678.00,,Underdark,,0
+91,Millenium Fatherland,Central City,6825619.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.10,,0.05,,0.20,,,,400000.00,0.04,650.00,"high modern industry, trade 3, dinosaur labor",0.78,2362517376.38,"moderate iron (1900), copper (1900)",Overworld,,0
+92,Millenium Fatherland,Cerasus,9359138.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.15,0.25,0.22,,0.20,,,,1600000.00,0.16,700.00,"Nat Capital, very high modern industry, trade 4, extreme technology, dinosaur labor, titan labor",1.25,4412365610.10,"low tungsten (1900), moderate gems (1900)",Overworld,,0
+93,Kalgor,Ch'Chitl,313901.00,0.10,0.05,0.05,0.05,0.05,0.10,0.01,,0.05,,0.15,,0.00,,-0.20,,4000000.00,0.40,300.00,"medium medieval industry, trade 2, large slave population, all mindflayer",0.36,12807160.80,"large gold, coal",Underdark,,0
+94,The Myrkur Imperium,Chabus,517834.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,1200000.00,0.12,200.00,"low medieval industry, trade 1",0.36,14085084.80,"large coal, iron, copper",Underdark,,0
+95,Free Cities League,Chicago,7581147.00,0.30,0.25,0.00,0.20,0.20,0.15,0.08,,0.10,,,,0.20,,,,,0.00,650.00,"High modern industry, trade 3",0.63,2402275955.63,,Overworld,,0
+96,The Great Jungle,Cifgow,10120481.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+97,Kingdom of Gondolin,Cirdan,389998.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.05,-0.10,,100000.00,0.01,200.00,"low medieval industry, trade 2, all elven pop",0.21,4722875.78,low iron,Overworld,,0
+98,Free Cities League,Cleveland,1000.00,0.30,-0.10,0.00,0.05,0.05,0.10,0.08,,0.00,,,,0.20,,,17.50,,0.00,500.00,"low modern industry, trade 4",0.03,153750.00,,Overworld,,0
+99,Britannia,Cloud,583072.00,0.10,-0.10,0.00,0.20,0.20,0.00,0.08,,0.05,0.05,,,0.20,,,,4000000.00,0.40,350.00,"reg capital, high medieval industry, trade 2",0.28,26019588.00,"large gold (1925), aluminum (1925) moderate gems (1925)",Overworld,,0
+100,Magic Cities,Clover,1123968.00,0.30,0.25,0.05,0.20,0.20,-0.15,0.08,,0.10,,0.08,,0.20,,,,,0.00,600.00,"medium modern industry, trade 3, magical machinery",0.76,356073062.40,,Overworld,,0
+101,Magic Cities,Clover,7167172.00,0.30,0.15,0.05,0.20,0.20,0.15,0.08,,0.05,0.05,0.05,,0.20,,,,,0.00,650.00,"reg capital, high modern industry, trade 2, Gov seat",0.63,2278085620.20,,Overworld,,0
+102,Millenium Fatherland,Coblenz,2174.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,432082.50,,Overworld,,0
+103,Millenium Fatherland,Cologne,784.00,0.30,0.05,0.15,0.15,0.15,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,2000000.00,2.00,500.00,"low modern industry, trade 1, dinosaur labor",0.48,173460.00,"low adamantium (1920), damestear (1920)",Overworld,,0
+104,Theocracy,Constantinople,3100439.00,0.05,0.00,-0.05,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,,,,,0.00,350.00,"nat capital, high medieval industry, trade 3, ",0.26,68418937.63,,Overworld,,0
+105,Magic Cities,Copenhagen,4201050.00,0.30,-0.10,0.05,,0.20,-0.15,0.03,,0.10,0.05,,,0.00,,,,250000.00,0.03,350.00,"reg capital, high medieval industry, trade 3",0.13,496249031.25,moderate iron (1920),Overworld,,0
+106,Sparta,Corinth,102576.00,0.05,0.05,0.05,0.05,0.05,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,1189881.60,,Overworld,,0
+107,Free Cities League,Corning,629798.00,0.30,0.25,0.00,0.20,0.20,0.15,0.08,,0.05,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.58,148789777.50,,Overworld,,0
+108,Millenium Fatherland,Cosmos,3390418.00,0.30,0.20,0.15,0.20,0.20,0.00,0.08,,0.05,,0.05,,0.20,,,,1050000.00,0.11,650.00,"high modern industry, trade 2, dinosaur labor",0.73,1140451854.75,"huge iron (1900), low tungsten (1900)",Overworld,,0
+109,The Myrkur Imperium,Covine,51028.00,0.10,0.05,0.10,0.10,0.10,0.00,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.26,1285905.60,,Underdark,,0
+110,The Great Jungle,Cranstin,6072288.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+111,Kingdom of Numenor,Crimmor,203887.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,5000000.00,0.50,200.00,"low medieval industry, trade 1, all numenor pop",0.56,3182676.07,"large black sapphires, jacinths, black opals",Overworld,,0
+112,Magic Cities,Cydonia,2264885.00,0.30,-0.15,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,,,,,0.00,200.00," low medieval industry, trade 1",0.01,137659710.30,,Overworld,,0
+113,Syndria,Dakhma,86026.00,0.30,0.25,0.15,0.20,0.20,0.05,0.08,,0.00,,0.20,,0.20,,,15.00,2000000.00,2.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,24194812.50,"large coal (1920), iron (1920)",Overworld,,0
+114,High Empire of Laputarches,Daldorth,1219.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,5000000.00,5.00,500.00,"low modern industry, trade 1, all dwarven",0.54,93619.20,"large black opal (1925), jacinth (1925), black sapphire (1925)",Overworld,,0
+115,High Empire of Laputarches,Dale,5524582.00,0.10,0.25,0.15,0.20,0.20,0.10,0.04,,0.10,,,,0.20,,,,,0.00,600.00,"medium modern industry, trade 3, ",0.74,575440461.12,,Overworld,,0
+116,Amon Rudh,Danwedh,2281006.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.10,-0.20,,650000.00,0.07,300.00,"medium medieval industry, trade 2, all dwarven pop",0.46,99976492.98,"large iron, moderate copper",Overworld,,0
+117,High Empire of Laputarches,Das Vatican (100k cap),10000.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,,0.20,,2.20,0.20,,,,0.00,500.00,"low modern industry, trade 1, aerial transportation",0.90,475000.00,,Overworld,,0
+118,The Myrkur Imperium,Daxtol,1549194.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,0.05,,,0.00,,,,,0.00,350.00,"high medieval industry, trade 2",0.41,76452723.90,,Underdark,,0
+119,High Empire of Laputarches,Dhemgolir,2025.00,0.10,0.00,0.15,0.00,0.00,0.15,0.04,,0.00,,0.15,,0.20,0.10,-0.20,15.00,3500000.00,3.50,200.00,"low medieval industry, trade 1, all dwarven pop heavenly paradise",0.44,58158.00,"large black sapphire, moderate damestear",Overworld,,0
+120,High Empire of Laputarches,Dhighgon,1186.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,1750000.00,1.75,500.00,"low modern industry, trade 1, all dwarven",0.54,91084.80,"moderate coal (1925), damestear (1925)",Overworld,,0
+121,Syndria,Dimbar,842504.00,0.30,0.10,0.15,0.00,0.00,0.05,0.02,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.27,159865134.00,,Overworld,,0
+122,Belegost,Dimgon,100686.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,750000.00,0.08,200.00,"low medieval industry, trade 1, all dwarven pop",0.41,2841358.92,huge iron,Overworld,,0
+123,Macedon,Dion,102581.00,0.05,0.05,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.21,1242255.91,,Overworld,,0
+124,Magic Cities,Disney (200k CAP),2692.00,0.30,0.05,0.05,0.15,0.15,0.05,0.08,,0.00,0.05,0.08,,0.20,,,15.00,,0.00,500.00,"reg capital, low modern industry, trade 1, magical machinery",0.46,589548.00,,Overworld,,0
+125,Belegost,Doggari,100831.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,2200000.00,0.22,200.00,"low medieval industry, trade 1, all dwarven pop",0.41,2845450.82,"large jacinth, low gems",Overworld,,0
+126,High Empire of Laputarches,Dol Amroth,1166566.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.10,,,,0.20,,,,500000.00,0.05,300.00,"medium medieval industry, trade 3",0.54,53755361.28,large coal,Overworld,,0
+127,Gracklstun Kingdom,Dolblunde,836226.00,0.10,0.05,0.00,0.05,0.05,0.15,0.01,,0.05,0.10,,,0.00,-0.05,0.10,,4800000.00,0.48,300.00,"nat capital, medium medieval, trade 2, all deep gnomes",0.21,30355003.80,"large coal, gems, low mithril",Underdark,,0
+128,Britannia,Doldrey,816081.00,0.30,-0.25,0.00,0.10,0.10,0.00,0.08,,0.05,,,,0.20,,,,3150000.00,0.32,300.00,"medium medieval industry, trade 2",-0.03,71611107.75,"huge iron (1925), large aluminum (1925), silver (1925), small gold (1925), gems (1925)",Overworld,,0
+129,Belegost,Dolmed,2918425.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,4300000.00,0.43,300.00,"medium medieval industry, trade 1, all dwarven pop",0.41,123536930.25,"large iron, copper, moderate black opal, small gold, platinum, gems",Overworld,,0
+130,Avernien Kingdom,Doriath,214884.00,0.05,0.10,0.10,0.10,0.10,-0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.31,2817129.24,,Overworld,,0
+131,Britannia,Douglas,2133.00,0.30,0.00,0.00,,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.08,343946.25,,Overworld,,0
+132,Millenium Fatherland,Drachenberg (CAP 2m),64551.00,0.30,0.10,0.15,0.15,0.15,-0.15,0.08,,0.05,0.10,0.12,,0.20,,,15.00,12250050.00,12.25,500.00,"Reg capital, low modern industry, trade 2, dinosaur labor, titan labor",0.75,16896224.25,"Only source of Wachstum Jewel and dracostone (1920), huge gold (1920), gems (1920), iron (1920), large coal (1920), copper (1920), low shou lung (1920), anti-magicite (1920)",Overworld,,0
+133,Bahamut's Realm,Dreki,202088.00,0.10,0.05,0.05,0.10,0.10,0.05,0.01,,,,,,0.00,0.15,-0.40,,,0.00,200.00,"low medieval industry, trade 1, all dragonborn",0.36,5496793.60,,Underdark,,0
+134,The Myrkur Imperium,Drempist,515374.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.05,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 2",0.41,21800320.20,,Underdark,,0
+135,Kingdom of Gondolin,Drengist,2463667.00,0.05,0.00,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.11,27371340.37,,Overworld,,0
+136,Millenium Fatherland,Dresden,1861.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,369873.75,,Overworld,,0
+137,Darchar,Drona,155016.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval, trade 1, all greenspawn",0.26,3906403.20,,Underdark,,0
+138,Darchar,Duby,206687.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval, trade 1, all greenspawn",0.26,5208512.40,,Underdark,,0
+139,Amon Rudh,Dug Darom,100766.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,1550000.00,0.16,200.00,"low medieval industry, trade 1, all dwarven pop",0.41,2843616.52,"moderate gold, low copper",Overworld,,0
+140,Duistern,Duistern,315785.00,0.10,0.15,0.15,0.00,0.00,0.20,0.05,,0.00,0.10,0.15,,0.00,0.08,-0.10,,,0.00,300.00,"nat capital, medium medieval industry, trade 1, all star elf pop, Cities of Light Portal Network",0.68,15925037.55,,Underdark,,0
+141,The Myrkur Imperium,Durgist,308611.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.36,8394219.20,,Underdark,,0
+142,Kingdom of Numenor,Duskor,308580.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,4816933.80,,Overworld,,0
+143,Lux Imperium,Duwood,207210.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all drow pop",0.41,5847466.20,,Underdark,,0
+144,High Empire of Laputarches,Eartheart,8238919.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.10,0.10,,,0.20,0.10,-0.20,,3350000.00,0.34,650.00,"Nat capital, high modern industry, trade 3, all dwarven pop",0.74,929679619.96,"large black opal (1925), silver (1925), tungsten (1925), moderate coal (1925), iron (1925)",Overworld,,0
+145,High Empire of Laputarches,Edhellondus,610553.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.05,,,,0.20,,,,,0.00,300.00,"medium medieval industry, trade 2",0.49,27218452.74,,Overworld,,0
+146,High Empire of Laputarches,Edoras,346181.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,9942318.32,,Overworld,,0
+147,High Empire of Laputarches,Efilin,1804.00,0.10,0.00,0.15,0.00,0.00,0.15,0.04,,0.00,0.05,0.15,,0.20,0.05,-0.10,15.00,,0.00,200.00,"reg capital, low medieval industry, trade 1, all elven pop, heavenly paradise",0.44,51810.88,,Overworld,,0
+148,Kingdom of Gondolin,Eglarest,243753.00,0.05,0.05,-0.05,0.10,0.10,0.00,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,2829972.33,,Overworld,,0
+149,Darchar,Eimgan,207717.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1, all greenspawn",0.36,5649902.40,,Underdark,,0
+150,Magic Cities,Einzbernberg,108207.00,0.30,0.25,0.05,0.20,0.20,0.15,0.08,,0.05,,0.08,,0.20,,,,,0.00,500.00,"low medium industry, trade 2, magical machinery",0.71,27755095.50,,Overworld,,0
+151,Britannia,Eisberg,1196.00,0.30,0.00,0.00,0.10,0.10,0.00,0.08,,0.00,0.05,,,0.20,,,15.00,2750000.00,2.75,500.00,"low modern industry, trade 1,",0.23,219765.00,large adamantium (1920),Overworld,,0
+152,Millenium Fatherland,Eisenberg,2100.00,0.30,0.10,0.15,0.15,0.15,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,3750000.00,3.75,500.00,"low modern industry, trade 1, dinosaur labor",0.53,480375.00,"huge iron (1920), low beskar (1920)",Overworld,,0
+153,Britannia,Eisland,1168.00,0.30,0.00,0.00,0.10,0.10,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.18,205860.00,,Overworld,,0
+154,Sundabar,El Dorado,104950.00,0.05,0.00,0.15,0.00,0.00,0.15,0.01,,0.00,0.05,0.15,,0.00,0.08,-0.10,,2300000.00,0.23,200.00,"reg capital, low medieval industry, trade 1, all moon elves, Cities of Light Portal Network",0.44,1512329.50,"huge gems, sakuradite",Overworld,,0
+155,Kingdom of Numenor,Eldahonde,1903158.00,0.05,0.25,0.05,0.10,0.10,0.15,0.01,,0.10,,,,0.00,0.15,,,,0.00,300.00,"medium medieval industry, trade 3, all numenor pop",0.66,47417181.57,,Overworld,,0
+156,Millenium Fatherland,Eldia,1170403.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.10,0.05,0.12,,0.20,,,,5450000.00,0.55,600.00,"medium modern industy, trade 3, Titan labor, dinosaur labor",0.90,399224463.30,"huge iron, copper, oil, large tungsten, moderate gems, small seastone",Overworld,,0
+157,High Empire of Laputarches,Elysia,1175.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,600000.00,0.60,500.00,"low modern industry, trade 1, all dwarven",0.54,90240.00,"Wachstum Source (1925), large silver (1925)",Overworld,,0
+158,Millenium Fatherland,Enchaine,3389592.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.05,,0.05,,0.20,,,,,0.00,600.00,"medium modern industry, trade 2, dinosaur labor",0.73,1052468316.00,,Overworld,,0
+159,High Empire of Laputarches,Erebor,32928636.00,0.10,0.25,0.15,0.20,0.20,0.15,0.04,,0.15,0.05,0.10,,0.20,0.10,-0.20,,30600000.00,3.06,700.00,"Reg Capital, high very modern industry, trade 4, all dwarven pop, Greatest City of Dwarves",1.04,4692989202.72,"huge mithril (1925), gold (1925), silver (1925), large gems (1925), iron (1925), copper (1925), tungsten (1925), aetherium (1925), blacksteel (1925), moderate sakuradite low beskar (1925),",Overworld,,0
+160,High Empire of Laputarches,Erech,314399.00,0.10,0.15,0.15,0.10,0.10,0.00,0.04,,0.00,,,,0.20,,,,600000.00,0.06,200.00,"low medieval industry, trade 1",0.44,9029539.28,"moderate iron, silver",Overworld,,0
+161,Kingdom of Numenor,Eregion,120692.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,1884002.12,,Overworld,,0
+162,Magic Cities,Esbjerg,2291.00,0.30,0.00,0.05,,0.20,0.00,0.03,,0.00,,,,0.00,,,15.00,2500000.00,2.50,500.00,"low modern industry, trade 1",0.08,369423.75,large berserker stone (1920),Overworld,,0
+163,Syndria,Estolad,1677248.00,0.30,0.10,0.15,0.10,0.10,0.05,0.02,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.37,343416528.00,,Overworld,,0
+164,Athens,Euboea,307729.00,0.05,0.05,0.05,0.05,0.05,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,3569656.40,,Overworld,,0
+165,Kingdom of Numenor,Everfair,356053.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,5557987.33,,Overworld,,0
+166,Kingdom of Gondolin,Everhorn,100311.00,0.05,0.05,-0.05,0.10,0.10,0.00,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,1164610.71,,Overworld,,0
+167,The Great Jungle,Evophia,1012048.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+168,Free Cities League,Falas,285672.00,0.30,-0.15,0.00,0.15,0.15,0.00,0.02,,0.05,,,,0.20,0.05,-0.10,,,0.00,500.00,"low modern industry, trade 2, all elven pop",0.12,47778642.00,,Overworld,,0
+169,Kingdom of Tirion,Felagund,164538.00,0.05,0.05,0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.26,2074824.18,,Overworld,,0
+170,Syndria,Flevoland,325270.00,0.30,0.25,0.15,,0.20,0.05,0.08,,0.10,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 3",0.58,76845037.50,,Overworld,,0
+171,Bhaerynden Kingdom,Floln,1583551.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.10,-0.20,,4300000.00,0.43,300.00,"medium medieval industry, trade 2, duergar",0.46,69359533.80,"large gold, gems",Underdark,,0
+172,Mazulun,Flumen,513011.00,0.10,0.20,0.15,0.10,0.10,0.15,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1, all firenewt pop",0.46,14979921.20,,Underdark,,0
+173,High Empire of Laputarches,Forlond,818246.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.05,,,,0.20,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 2, all elven pop",0.54,37704775.68,,Overworld,,0
+174,Kingdom of Gondolin,Formenos,4491122.00,0.05,0.05,-0.05,0.10,0.10,0.00,0.01,,0.05,0.05,,,0.00,0.05,-0.10,,,0.00,350.00,"Reg capital, high medieval industry, trade 2, all elven pop",0.26,99107834.74,,Overworld,,0
+175,The Formians,Formioso,11536302.00,0.00,0.00,0.00,0.00,0.00,0.20,0.00,,,0.10,,,0.00,,3.00,,,0.00,,"nat capital, Formians",0.10,0.00,,Underdark,,0
+176,High Empire of Laputarches,Fornostos,282539.00,0.10,0.15,0.15,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,8114520.08,,Overworld,,0
+177,Gracklstun Kingdom,Fracnard,133534.00,0.10,0.05,0.00,0.05,0.05,0.15,0.01,,,,,,0.00,-0.05,0.10,,1700000.00,0.17,200.00,"low medieval industry, trade 1, all deep gnomes",0.06,2830920.80,"large iron, copper, small platinum",Underdark,,0
+178,Millenium Fatherland,Frankfurt,1367.00,0.30,0.10,0.15,0.10,0.10,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.48,302448.75,,Overworld,,0
+179,High Empire of Laputarches,Freyport,101876.00,0.10,0.15,0.15,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,2925878.72,,Overworld,,0
+180,Magic Cities,Fuyuki,3601721.00,0.30,0.25,0.05,0.20,0.20,0.15,0.08,,0.15,0.05,0.33,,0.20,,,,50000.00,0.01,650.00,"high modern industry, trade 4, magical machinery, Gov seat, Numerous powerful mages",1.11,1481928105.45,low copper (1900),Overworld,,0
+181,Chiefdom of Urgblog,Gahross,50826.00,0.10,0.00,0.00,0.05,0.05,0.15,0.01,,,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all orog pop",0.11,1128337.20,,Underdark,,0
+182,Free Cities League,Galdor,5682011.00,0.30,-0.15,0.00,0.15,0.15,0.15,0.02,,0.00,,,,0.20,0.05,-0.10,,,0.00,650.00,"high modern industry, trade 1, all elven pop",0.07,1180011634.43,,Overworld,,0
+183,Britannia,Gatecester ,342747.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.10,0.05,0.15,,0.20,,,,2750000.00,2.75,600.00,"reg capital, medium modern industry, trade 3, large portal",0.58,97168774.50,"moderate iron (1920), large platinum (1920)",Overworld,,0
+184,Magic Cities,Geneva,5258763.00,0.30,0.00,0.05,0.20,0.20,0.00,0.08,,0.05,,,,0.20,,,,5200000.00,0.52,600.00,"medium modern industry, trade 2",0.38,1306276729.20,"large gold (1900), gems (1900), coal (1900), moderate iron (1900), copper (1900)",Overworld,,0
+185,Cecilia,Get,25205.00,0.10,-0.05,-0.05,0.05,0.05,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 3",-0.05,481415.50,,Underdark,,0
+186,High Empire of Laputarches,Giledur,1169.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,,0.00,500.00,"low modern industry, trade 1, all dwarven",0.54,89779.20,dracostone source (1925),Overworld,,0
+187,High Empire of Laputarches,Girarum,1209.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,4000000.00,4.00,500.00,"low modern industry, trade 1, all dwarven",0.54,92851.20,"huge sakuradite, large oil (1925), damestear (1925)",Overworld,,0
+188,Britannia,Glasgow,2147.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,410613.75,,Overworld,,0
+189,Belegost,Glaurung,3625699.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.10,-0.20,,2250000.00,0.23,300.00,"medium medieval industry, trade 2, all dwarven pop",0.46,158914387.17,"large gems, moderate iron, small silver",Overworld,,0
+190,Chiefdom of Urgblog,Glona,101650.00,0.10,0.00,0.00,0.05,0.05,0.15,0.01,,,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all orog pop",0.11,2256630.00,,Underdark,,0
+191,Land of Mountains,Glont,50845.00,0.10,0.05,0.05,0.05,0.05,0.15,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1, all hengyokai pop",0.16,1179604.00,,Underdark,,0
+192,Kingdom of Gondolin,Glorfindel,272449.00,0.05,-0.05,-0.05,0.10,0.10,-0.05,0.01,,0.00,,,,0.00,0.05,-0.10,,200000.00,0.02,200.00,"low medieval industry, trade 1, all elven pop",0.06,2890683.89,large copper,Overworld,,0
+193,Britannia,Gloucester,782442.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.05,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.23,143773717.50,,Overworld,,0
+194,Kingdom of Gondolin,Gondolin,3399935.00,0.05,0.20,-0.05,0.10,0.10,-0.05,0.01,,0.10,0.10,,,0.00,0.05,-0.10,,700000.00,0.07,350.00,"Nat capital, high medieval industry, trade 3, all elven pop",0.51,89902781.24,"large iron, copper",Overworld,,0
+195,Magic Cities,Gothenburg,15879.00,0.30,0.00,0.05,,0.20,0.10,0.03,,0.00,0.05,,,0.00,,,15.00,,0.00,500.00,"Reg capital, low modern industry, trade 1",0.13,2679581.25,,Overworld,,0
+196,High Empire of Laputarches,Gracklstugh,2358190.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.05,,,,0.20,0.10,-0.20,,12050000.00,1.21,600.00,"medium modern industry, trade 2, all dwarven pop",0.59,224405360.40,"large gold (1925), platinum (1925), iron (1925), moderate beskar (1925), gems (1925)",Overworld,,0
+197,Darchar,Gremouth,206687.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1, greenspawn",0.26,5208512.40,,Underdark,,0
+198,High Empire of Laputarches,Grey Havens,3271379.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.10,0.05,,,0.20,0.05,-0.10,,,0.00,350.00,"Reg capital, high medieval industry, trade 3, all elven pop",0.64,187319161.54,,Overworld,,0
+199,Magic Cities,Gruva,101867.00,0.30,0.25,0.05,0.20,0.20,0.00,0.08,,0.00,,0.08,,0.20,,,,350000.00,0.04,500.00,"low modern industry, trade 1, magical machinery",0.66,25364883.00,"moderate coal (1920), low iron (1920)",Overworld,,0
+200,Britannia,Guilin,526019.00,0.30,-0.25,0.00,0.10,0.10,0.05,0.08,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",-0.08,29194054.50,,Overworld,,0
+201,High Empire of Laputarches,Gundabad,5895214.00,0.10,0.25,0.15,0.10,0.10,0.15,0.04,,0.05,,,,0.20,0.10,-0.20,,10300000.00,1.03,650.00,"high modern industry, trade 2, all dwarven pop",0.69,646056502.26,"large gems (1925), jacinths (1925), damestear (1925) moderate iron (1925), copper (1925), low shou lung (1925), black opal (1925)",Overworld,,0
+202,Babylon,Gyou,10268290.00,0.30,-0.25,0.05,0.10,0.10,0.15,0.03,,0.10,0.05,,,0.20,,,,,0.00,350.00,"reg capital, high medieval industry, trade 3",0.08,1159033233.75,,Overworld,,0
+203,Kingdom of Numenor,Hafen,103694.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,1618663.34,,Overworld,,0
+204,Magic Cities,Hage,1206024.00,0.30,0.15,0.05,,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,231556608.00,,Overworld,,0
+205,Millenium Fatherland,Hamburg,112272.00,0.30,0.20,0.15,0.20,0.20,0.05,0.08,,0.00,,0.05,,0.20,,,,,0.00,500.00,"low modern, trade 1 dinosaur labor",0.68,28208340.00,,Overworld,,0
+206,Babylon,Hangzhou,702421.00,0.30,-0.25,0.05,0.10,0.10,0.10,0.03,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",-0.08,38984365.50,,Overworld,,0
+207,High Empire of Laputarches,Hankahldur,1169.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,,0.00,500.00,"low modern industry, trade 1, all dwarven",0.54,89779.20,huge mithril (1925),Overworld,,0
+208,Millenium Fatherland,Hanover,218154.00,0.30,0.20,0.15,0.20,0.20,0.00,0.08,,0.00,,0.05,,0.20,,,,2100000.00,0.21,500.00,"low modern, trade 1 dinosaur labor",0.68,54811192.50,"large coal (1920), low gold (1920), gems (1920)",Overworld,,0
+209,Calimshan,Harad,1628259.00,0.05,0.00,0.00,0.05,0.05,-0.10,0.01,,0.00,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 1",0.06,25913741.99,,Overworld,,0
+210,High Empire of Laputarches,Harlond,555988.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.05,,,,0.20,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 2, all elven pop",0.54,25619927.04,,Overworld,,0
+211,Babylon,Harran,102684.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,8841092.40,,Overworld,,0
+212,Magic Cities,Haruki,241233.00,0.30,0.15,0.05,,0.20,0.10,0.08,,0.00,,0.08,,0.20,,,,,0.00,500.00,"low modern industry, trade 1, magical machinery",0.36,49211532.00,,Overworld,,0
+213,Babylon,Hatra,108215.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,9317311.50,,Overworld,,0
+214,Britannia,Hawk,1572.00,0.30,0.00,0.00,0.15,0.15,0.10,0.08,,0.00,,,,0.20,,,15.00,3000000.00,0.30,200.00,"low modern industry, trade 1",0.23,115542.00,,Overworld,,0
+215,Cecilia,Head,5040.00,0.10,-0.05,-0.05,0.05,0.05,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 6",-0.05,96264.00,,Underdark,,0
+216,Magic Cities,Hebron,296319.00,0.30,-0.10,0.05,0.10,0.10,0.10,0.02,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.07,1155644.10,,Overworld,,0
+217,Lux Imperium,Heldale,311586.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 2, all drow pop",0.46,9104542.92,,Underdark,,0
+218,Duistern,Helder,52060.00,0.10,0.15,0.15,0.00,0.00,0.20,0.05,,0.00,,0.15,,0.00,0.08,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all star elves, Cities of Light Portal Network",0.58,1646137.20,,Underdark,,0
+219,Lux Imperium,Helio,2648508.00,0.10,0.25,0.15,0.10,0.10,0.15,0.01,,0.20,0.10,,,0.00,0.05,-0.10,,,0.00,350.00,"Nat capital, high medieval industry, trade 5, all drow pop",0.86,172510568.58,,Underdark,,0
+220,Lux Imperium,Hellion,1569566.00,0.10,0.25,0.15,0.00,0.00,0.15,0.01,,0.15,,,,0.00,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 4, all drow pop",0.61,75857124.78,,Underdark,,0
+221,High Empire of Laputarches,Helms Deep,73433.00,0.10,0.25,0.15,0.10,0.10,0.00,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.54,2255861.76,,Overworld,,0
+222,Dragon Slayer Coalition,Helmsport,359016.00,0.10,0.05,0.05,0.10,0.10,0.05,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.21,8688187.20,,Underdark,,0
+223,Millenium Fatherland,Herstellung,8260.00,0.30,0.10,0.15,0.15,0.15,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.53,1889475.00,,Overworld,,0
+224,High Empire of Laputarches,Herthiad,1194.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,2500000.00,2.50,500.00,"low modern industry, trade 1, all dwarven",0.54,91699.20,"large shou lung (1925), gold (1925)",Overworld,,0
+225,Syndria,Hildorien,1673471.00,0.30,0.10,0.15,0.00,0.00,0.15,0.02,,0.05,0.05,,,0.20,,,,,0.00,300.00,"reg capital, medium medieval industry, trade 2",0.37,205585912.35,,Overworld,,0
+226,High Empire of Laputarches,Himduar,1169.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,,0.00,500.00,"low modern industry, trade 1, all dwarven",0.54,89779.20,"huge beskar (1925), moderate mithril (1925), ",Overworld,,0
+227,Avernien Kingdom,Himlad,173953.00,0.05,0.10,0.10,0.10,0.10,-0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.31,2280523.83,,Overworld,,0
+228,Syndria,Hirado,336486.00,0.30,0.25,0.15,,0.20,0.05,0.08,,0.10,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 3",0.58,79494817.50,,Overworld,,0
+229,Bhaerynden Kingdom,Hirndorahl,1067026.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,,,,,0.00,0.10,-0.20,,8800000.00,0.88,300.00,"low medieval industry, trade 1, all duergar pop",0.41,45135199.80,"large gold, anti-magicite",Underdark,,0
+230,Free Cities League,Hithlum,2279565.00,0.30,-0.15,0.00,0.15,0.15,0.00,0.02,,0.05,,0.10,,0.20,0.05,-0.10,,,0.00,600.00,"medium modern industry, trade 2, all elven pop, unique spices",0.22,498540865.50,,Overworld,,0
+231,High Empire of Laputarches,Hobbiton,575542.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.00,,,,0.20,,-0.10,,,0.00,200.00," low medieval industry, trade 1, all hobbit pop",0.44,16529566.24,,Overworld,,0
+232,Syndria,Honduras,1974.00,0.30,0.15,0.15,,0.20,0.00,0.08,,0.00,,0.10,,0.20,,,15.00,1450000.00,1.45,500.00,"low modern industry, trade 1, unique spices",0.48,436747.50,"large copper (1920), iron (1920), aluminum (1920)",Overworld,,0
+233,Britannia,Hong Kong,109837.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,1900000.00,1.90,500.00,"low modern industry, trade 1",0.28,21006326.25,"moderate oil (1920), small gold (1920)",Overworld,,0
+234,Syndria,Hormuz,1608.00,0.30,0.15,0.15,,0.20,0.05,0.08,,0.00,,0.10,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, unique spices",0.48,355770.00,,Overworld,,0
+235,The Great Jungle,Icomore,4048192.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+236,The Great Jungle,Idotol,2024096.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+237,The Myrkur Imperium,Iklolk,357194.00,0.10,0.05,0.10,0.10,0.10,0.00,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.26,9001288.80,,Underdark,,0
+238,Britannia,Illyasville,1563.00,0.30,0.00,0.00,0.15,0.15,0.10,0.08,,0.00,,,,0.20,,,15.00,,0.00,200.00,"low modern industry, trade 1",0.23,114880.50,,Overworld,,0
+239,The Myrkur Imperium,Inegend,773061.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 2",0.36,31540888.80,,Underdark,,0
+240,Dragon Slayer Coalition,Iriaebor,3135883.00,0.10,0.05,0.05,0.10,0.10,0.15,0.01,,0.05,0.10,,,0.00,,,,2000000.00,0.20,350.00,"nat capital, high medieval industry, trade 2",0.36,149268030.80,"large iron, black opal",Underdark,,0
+241,High Empire of Laputarches,Isengard,52895.00,0.10,0.25,0.15,0.10,0.10,0.00,0.04,,0.00,0.10,0.05,,0.20,,,,,0.00,200.00,"Nat Capital, low medieval industry, trade 1, Tower of Orthanc",0.69,1783619.40,,Overworld,,0
+242,Millenium Fatherland,Ishval,1126560.00,0.30,0.20,0.15,0.20,0.20,0.10,0.08,,0.00,,0.05,,0.20,,,,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.68,283048200.00,,Overworld,,0
+243,Theocracy,Istros,509085.00,0.05,0.00,-0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.06,5401391.85,,Overworld,,0
+244,The Great Jungle,Itavine,5060240.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+245,Free Cities League,Ithaca,409296.00,0.30,0.25,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.53,93626460.00,,Overworld,,0
+246,Syndria,Jabal,2422.00,0.30,0.25,0.15,0.20,0.20,0.00,0.08,,0.00,,0.20,,0.20,,,15.00,1850000.00,1.85,500.00,"low modern industry, trade 1, Unique Spices S",0.88,681187.50,"large aluminum (1920), tungsten (1920), low gold (1920)",Overworld,,0
+247,Syndria,Janub,18228.00,0.30,0.25,0.15,0.20,0.20,-0.05,0.08,,0.00,,0.20,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,5126625.00,,Overworld,,0
+248,Magic Cities,Jarlsville,1881.00,0.30,0.00,0.05,,0.20,0.05,0.03,,0.00,,,,0.00,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.08,303311.25,,Overworld,,0
+249,Magic Cities,Jelling,550471.00,0.30,-0.10,0.05,0.10,0.10,-0.15,0.03,,0.00,,,,0.00,,,,,0.00,500.00,"low modern industry, trade 1",0.08,88763448.75,,Overworld,,0
+250,Magic Cities,Jerusalem,1033539.00,0.30,-0.10,0.05,0.10,0.10,0.15,0.02,,0.10,0.05,,,0.00,,,,,0.00,300.00,"reg capital, medium medieval industry, trade 3",0.22,113017489.65,,Overworld,,0
+251,Britannia,Jewecester,977970.00,0.30,0.00,0.00,0.15,0.15,0.10,0.02,,0.00,0.05,0.23,,0.20,,,,1800000.00,0.18,300.00,"Reg capital, medium medieval industry, trade 1, large portal, university of Rhodesia (3)",0.45,127537067.70,"large tungsten (1920), small copper (1920), platinum (1920)",Overworld,,0
+252,Magic Cities,Jomsborg,810710.00,0.30,-0.10,0.05,,0.20,-0.15,0.03,,0.00,,,,0.00,,,,,0.00,500.00,"low modern, trade 1",-0.03,118566337.50,,Overworld,,0
+253,Babylon,Jouto,3687265.00,0.30,-0.25,0.05,0.10,0.10,0.15,0.03,,0.00,,,,0.20,,,,150000.00,0.02,300.00,"medium medieval industry, trade 1",-0.08,306964811.25,moderate copper,Overworld,,0
+254,Babylon,Joyou,744862.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.05,,,,0.20,,,,,0.00,300.00,"medium medieval industry, trade 2",0.49,99550806.30,,Overworld,,0
+255,Free Cities League,July,4670650.00,0.30,0.05,0.00,0.20,0.20,-0.10,0.08,,0.05,0.05,,,0.20,,,,1150000.00,0.12,600.00,"reg capital, medium modern industry, trade 2",0.43,1198021725.00,"moderate copper (1900), oil (1900)",Overworld,,0
+256,Millenium Fatherland,Kaltberg,1168.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,232140.00,,Overworld,,0
+257,Babylon,Kanesh,102734.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.05,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 2",0.49,9153599.40,,Overworld,,0
+258,Babylon,Kantan,5690729.00,0.30,-0.25,0.05,0.10,0.10,0.15,0.03,,0.10,,,,0.20,,,,,0.00,350.00,"high medieval industry, trade 3",0.03,612464708.63,,Overworld,,0
+259,Britannia,Kanyou,5979579.00,0.30,-0.25,0.00,0.10,0.10,0.15,0.08,,0.10,,,,0.20,,,,2700000.00,0.27,350.00," high medieval industry, trade 3",0.03,643552189.88,"large gold (1925), low silver (1925)",Overworld,,0
+260,Kingdom of Athala,Kathala,25309.00,0.10,0.00,0.00,0.05,0.05,0.10,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 1",0.06,536550.80,,Underdark,,0
+261,Theocracy,Kavala,255177.00,0.05,0.00,-0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 2",0.11,2835016.47,,Overworld,,0
+262,High Empire of Laputarches,Kazar Ankor,1047659.00,0.10,0.25,0.15,0.20,0.20,0.15,0.04,,0.00,,,,0.20,0.10,-0.20,,3750000.00,0.38,500.00,"low modern industry, trade 1, all dwarven pop",0.74,90936801.20,"huge coal (1925), platinum (1925)",Overworld,,0
+263,Lux Imperium,Kefwood,260948.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,-0.05,0.15,,,0.00,200.00,"low medieval industry, trade 1, all yuan-ti pop",0.31,6842056.56,,Underdark,,0
+264,Magic Cities,Keisteen,2541601.00,0.30,-0.10,0.05,0.10,0.10,0.00,0.02,,0.00,,,,0.00,,,,1500000.00,0.15,200.00,"low medieval industry, trade 1",0.07,162408303.90,moderate gold (1920),Overworld,,0
+265,Britannia,Ken Kokyu,98785.00,0.30,-0.10,0.00,0.20,0.20,0.00,0.08,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.18,6964342.50,,Overworld,,0
+266,High Empire of Laputarches,Kerlodir,1189.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,2000000.00,2.00,500.00,"low modern industry, trade 1, all dwarven",0.54,91315.20,"moderate anti-magicite (1925), platinum (1925), tungsten (1925)",Overworld,,0
+267,High Empire of Laputarches,Kharndorth,1187.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,1800000.00,1.80,500.00,"low modern industry, trade 1, all dwarven",0.54,91161.60,"large gems (1925), sakuradite (1925)",Overworld,,0
+268,Aglarond,Khazadrum,156785.00,0.10,0.15,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,1500000.00,0.15,200.00,"low medieval industry, trade 1, all dwarf pop",0.51,4738042.70,"huge iron, coal",Underdark,,0
+269,The Cube,Khivine,1533883.00,0.10,0.00,0.00,0.00,0.00,0.05,0.01,,,0.10,,,0.00,-0.15,0.30,,,0.00,300.00,"national capital, medium medieval industry, trade 1, all derro",-0.04,44175830.40,,Underdark,,0
+270,High Empire of Laputarches,Khun,525037.00,0.10,0.10,0.15,0.10,0.10,0.15,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.39,14554025.64,,Overworld,,0
+271,High Empire of Laputarches,Khungan,1836.00,0.10,0.00,0.15,0.00,0.00,0.15,0.04,,0.00,,0.15,,0.20,0.10,-0.20,15.00,600000.00,0.60,200.00,"low medieval industry, trade 1, all dwarven pop heavenly paradise",0.44,52729.92,large silver,Overworld,,0
+272,Bhaerynden Kingdom,Kigh Todir,3289607.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,0.10,-0.20,,18550000.00,1.86,350.00,"nat capital, high medieval, trade 3, all duergar",0.61,185369354.45,"large adamantium, mithril, gems",Underdark,,0
+273,High Empire of Laputarches,King's Hall,368437.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.05,,,,0.20,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 2, all elven pop",0.54,16977576.96,,Overworld,,0
+274,Magic Cities,Kiten,1212193.00,0.30,0.15,0.05,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,700000.00,0.07,600.00,"medium modern industry, trade 1",0.48,322928215.20,"large iron (1900), copper (1900)",Overworld,,0
+275,The Great Jungle,Klisey,8096385.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+276,Millenium Fatherland,Konigsberg,3385458.00,0.30,0.20,0.15,0.20,0.20,0.00,0.08,,0.05,,0.05,,0.20,,,,950000.00,0.10,650.00,"high modern industry, trade 2, dinosaur labor",0.73,1138783434.75,"large copper (1900), tungsten (1900)",Overworld,,0
+277,The Great Jungle,Krarby,5060240.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+278,Lux Imperium,Kriham,313136.00,0.10,0.25,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all drow pop",0.56,9776105.92,,Underdark,,0
+279,Kalgor,Krul,81653.00,0.10,0.05,0.05,0.05,0.05,0.05,0.01,,,,0.15,,0.00,,-0.20,,,0.00,200.00,"low medieval, trade 1, large slave population, all mindflayer",0.31,2139308.60,,Underdark,,0
+280,Darchar,Kurg,213152.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.10,-0.20,,8800000.00,0.88,200.00,"low medieval industry, trade 1, all redspawn",0.46,6224038.40,"large beskar, gems",Underdark,,0
+281,Babylon,Kyoroch,514420.00,0.30,0.25,0.05,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,44291562.00,,Overworld,,0
+282,Britannia,Kyoto,107926.00,0.30,-0.10,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,19021957.50,,Overworld,,0
+283,Kingdom of Belfalas,Laiquendi,250762.00,0.05,-0.15,-0.15,0.05,0.05,0.10,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",-0.19,2033679.82,,Overworld,,0
+284,High Empire of Laputarches,Laketown,1632597.00,0.10,0.25,0.15,0.20,0.20,0.10,0.04,,0.10,,,,0.20,,,,1500000.00,0.15,600.00,"medium modern industry, trade 3, ",0.74,170051303.52,large oil (1925),Overworld,,0
+285,Free Cities League,Lammoth,5829471.00,0.30,-0.15,0.00,0.15,0.15,0.00,0.02,,0.00,,,,0.20,0.05,-0.10,,250000.00,0.03,300.00,"medium medieval industry, trade 1, all elven pop",0.07,558754795.35,moderate iron (1920),Overworld,,0
+286,High Empire of Laputarches,Laputa (5m cap) (2m city x2),1293819.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,0.10,0.38,,2.20,0.20,,,,0.00,650.00,"Nat Capital, High modern industry, trade 1, Hyper-Extreme Technology, Aerial Transportation, City of Dragons (3%), Magical Machinery (Coming?), Portal Nexus (Coming), University of Laputa x2 (Coming), Insect Slave Labor (Coming)",1.18,91667076.15,,Overworld,,0
+287,Magic Cities,Lastlight,2221.00,0.30,0.05,0.05,0.15,0.15,0.05,0.08,,0.00,,0.08,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, magical machinery",0.41,469741.50,,Overworld,,0
+288,Lux Imperium,Lawood,623175.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,0.05,,,0.00,0.05,-0.10,,,0.00,200.00,"reg capital, low medieval industry, trade 1, all drow pop",0.46,18209173.50,,Underdark,,0
+289,Britannia,Leaves,441422.00,0.30,-0.10,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,100000.00,0.01,500.00,"low modern industry, trade 1",0.18,77800627.50,low iron (1925),Overworld,,0
+290,Britannia,Leeds,2133.00,0.30,0.00,0.00,,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.08,343946.25,,Overworld,,0
+291,Millenium Fatherland,Leidenschaftlich,5663114.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.05,,0.05,,0.20,,,,,0.00,650.00,"high modern industry, trade 2, dinosaur labor",0.73,1904929971.75,,Overworld,,0
+292,Lux Imperium,Lethyr,365326.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,-0.05,0.15,,,0.00,200.00,"low medieval industry, trade 1, all yuan-ti pop",0.31,9578847.72,,Underdark,,0
+293,Free Cities League,Lewiston,204688.00,0.30,0.25,0.00,0.20,0.20,0.00,0.08,,0.00,,,,0.20,,,,1200000.00,0.12,500.00,"low modern industry, trade 1",0.53,46822380.00,"huge tunsgten (1920), large aluminum (1920)",Overworld,,0
+294,High Empire of Laputarches,Linhir,1157944.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.05,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 2",0.49,34414095.68,,Overworld,,0
+295,Millenium Fatherland,Linz,4553739.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.05,,0.05,,0.20,,,,1050000.00,0.11,650.00,"high modern industry, trade 2, dinosaur labor",0.73,1531763956.13,"large iron (1900), copper (1900), aluminum (1900)",Overworld,,0
+296,Britannia,Liverpool,102578.00,0.30,-0.10,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,18079372.50,,Overworld,,0
+297,Free Cities League,Lomin,3481013.00,0.30,-0.15,0.00,0.15,0.15,0.00,0.02,,0.05,,,,0.20,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 2, all elven pop",0.12,232879769.70,,Overworld,,0
+298,High Empire of Laputarches,Lond Daer Enedh,2115793.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.10,,,,0.20,,,,,0.00,300.00,"medium medieval industry, trade 3",0.54,97495741.44,,Overworld,,0
+299,Britannia,London,4937345.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.15,,,,0.20,,,,250000.00,0.03,650.00,"high modern industry, trade 4",0.33,1275686514.38,moderate coal (1900),Overworld,,0
+300,Magic Cities,Longmont,1326785.00,0.30,-0.10,0.05,0.10,0.10,0.00,0.02,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.07,84781561.50,,Overworld,,0
+301,Millenium Fatherland,Lubeck,2174.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,432082.50,,Overworld,,0
+302,Britannia,Lugnica,196193.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.05,,,,0.20,,,,1000000.00,0.10,500.00,"low modern industry, trade 2",0.33,38993358.75,"moderate iron (1920), large tungsten (1920)",Overworld,,0
+303,Britannia,Lumias,113808.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,21765780.00,,Overworld,,0
+304,Britannia,Lurolona,580436.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.05,,,,0.20,,,,500000.00,0.05,600.00,"medium modern industry, trade 2",0.33,138433986.00,large coal (1920),Overworld,,0
+305,Kingdom of Numenor,Luskan,376519.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,450000.00,0.05,200.00,"low medieval industry, trade 1, all numenor pop",0.56,5877461.59,"large copper, moderate coal,",Overworld,,0
+306,High Empire of Laputarches,Lynhor,1801.00,0.10,0.00,0.15,0.00,0.00,0.15,0.04,,0.00,,0.15,,0.20,0.05,-0.10,15.00,,0.00,200.00,"low medieval industry, trade 1, all elven pop heavenly paradise",0.39,49923.72,,Overworld,,0
+307,Britannia,MacArthurville,147160.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.05,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.33,29248050.00,,Overworld,,0
+308,Magic Cities,Macau,105782.00,0.30,0.25,0.05,0.20,0.20,0.05,0.08,,0.05,,0.08,,0.20,,,,,0.00,500.00,"low modern industry, trade 2, magical machinery",0.71,27133083.00,,Overworld,,0
+309,Britannia,Machu,102174.00,0.30,0.00,0.00,0.20,0.20,0.00,0.08,,0.00,,,,0.20,,,,3000000.00,0.30,500.00,"low modern industry, trade 1",0.28,19540777.50,"large platinum (1920), low tungsten (1920), silver (1920)",Overworld,,0
+310,Kingdom of Gondolin,Maeglin,130559.00,0.05,-0.05,-0.05,,0.20,-0.05,0.01,,0.00,,,,0.00,0.05,-0.10,,250000.00,0.03,200.00,"low medieval industry, trade 1, all elven pop",-0.04,1254671.99,moderate iron,Overworld,,0
+311,Magic Cities,Magnolia,4876175.00,0.30,0.25,0.05,0.20,0.20,0.15,0.08,,0.05,0.05,0.23,,0.20,,,,450000.00,0.05,650.00,"high modern industry, trade 2, magical machinery, Gov seat, Numerous powerful mages",0.91,1816131378.75,"moderate silver (1900), low coal (1900)",Overworld,,0
+312,Magic Cities,Magnostadt,6661391.00,0.30,0.25,0.05,0.20,0.20,0.00,0.08,,0.10,0.10,0.38,,0.20,,,,2000000.00,0.20,650.00,"Nat Capital, high modern industry, trade 3, magical machinery, Gov seat, Numerous powerful mages",1.16,2805777889.20,"large iron (1900), copper (1900), moderate gems (1900)",Overworld,,0
+313,Syndria,Maldives,1603.00,0.30,0.15,0.15,,0.20,-0.05,0.08,,0.00,,0.10,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, unique spices",0.48,354663.75,,Overworld,,0
+314,Millenium Fatherland,Mannheim,104803.00,0.30,0.20,0.15,0.20,0.20,0.05,0.08,,0.00,,0.05,,0.20,,,,,0.00,500.00,"low modern, trade 1 dinosaur labor",0.68,26331753.75,,Overworld,,0
+315,Syndria,Markaziun,18458.00,0.30,0.25,0.15,0.20,0.20,-0.05,0.08,,0.00,,0.20,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,5191312.50,,Overworld,,0
+316,Magic Cities,Marvel,1861.00,0.30,0.05,0.05,,0.20,0.05,0.08,,0.00,,0.08,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, magical machinery",0.26,351729.00,,Overworld,,0
+317,Kingdom of Numenor,Mazor,410828.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,6413025.08,,Overworld,,0
+318,Britannia,Melromarc,195926.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,1500000.00,0.15,500.00,"low modern industry, trade 1",0.28,37470847.50,large oil (1920),Overworld,,0
+319,Calimshan,Memnon,112726.00,0.05,0.00,0.00,0.05,0.05,0.15,0.01,,0.00,,,,0.00,-0.05,,,,0.00,200.00,"low medieval industry, trade 1, all harssaf pop",0.01,1139659.86,,Overworld,,0
+320,Belegost,Menegroth,1864645.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,2750000.00,0.28,300.00,"medium medieval industry, trade 1, all dwarven pop",0.41,78930422.85,"large gold, moderate iron",Overworld,,0
+321,Kingdom of Numenor,Meneltarma,536015.00,0.05,0.25,0.05,0.10,0.10,0.00,0.01,,0.05,,,,0.00,0.15,,,4800000.00,0.48,200.00,"low medieval industry, trade 2, all numenor pop",0.61,8635201.65,"large iron, gold, damestear",Overworld,,0
+322,Sparta,Messene,153865.00,0.05,0.05,0.05,0.05,0.05,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,1784834.00,,Overworld,,0
+323,Macedon,Methoni,515075.00,0.05,0.05,0.05,0.10,0.10,0.00,0.01,,0.05,,,,0.00,,,,850000.00,0.09,200.00,"low medieval industry, trade 2",0.26,6495095.75,"moderate copper, low gems",Overworld,,0
+324,Syndria,Mexico,2046.00,0.30,0.15,0.15,,0.20,0.00,0.08,,0.00,,0.10,,0.20,,,15.00,2500000.00,2.50,500.00,"low modern industry, trade 1, unique spices",0.48,452677.50,"moderate damestear (1920), low platinum (1920)",Overworld,,0
+325,Pluvianos,Mezro,572662.00,0.05,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,-0.10,0.20,,,0.00,200.00,"low medieval industry, trade 1, all flier pops",0.21,6934936.82,,Overworld,,0
+326,Sundabar,Mhiilamniir,5245.00,0.05,0.25,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.08,-0.10,,700000.00,0.07,200.00,"low medievel industry, trade 1, all sun elf pop",0.59,83447.95,"large copper, iron",Overworld,,0
+327,Lux Imperium,Mido,368050.00,0.10,0.25,0.15,0.10,0.10,0.10,0.01,,0.00,,,,0.00,-0.15,0.30,,,0.00,200.00,"low medieval industry, trade 1, all kuo-toa pop",0.36,10018321.00,,Underdark,,0
+328,High Empire of Laputarches,Minas Morgul,125387.00,0.10,0.15,0.15,0.10,0.10,0.00,0.04,,0.00,,,,0.20,,,,,0.00,200.00," low medieval industry, trade 1",0.44,3601114.64,,Overworld,,0
+329,High Empire of Laputarches,Minas Tirith,3643320.00,0.10,0.15,0.15,0.10,0.10,0.00,0.04,,0.10,0.05,,,0.20,,,,3600000.00,0.36,350.00,"reg capital, high medieval industry, trade 3",0.59,202240693.20,"Large gold, silver, iron",Overworld,,0
+330,Britannia,Mirso,178888.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,34212330.00,,Overworld,,0
+331,Britannia,Mist,228405.00,0.10,-0.10,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.18,5367517.50,,Overworld,,0
+332,High Empire of Laputarches,Mistral (2m cap),1200.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,,0.20,,2.20,0.20,,15.00,,0.00,500.00,"low modern industry, trade 1, aerial transportation",0.90,57000.00,,Overworld,,0
+333,Kingdom of Gondolin,Mithrim,1432556.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,300.00,"medium medieval industry, trade 1, all elven pop",0.16,24947962.74,,Overworld,,0
+334,Mongrelium,Mongrel,54559.00,0.10,-0.05,-0.05,0.05,0.05,0.15,0.00,,0.00,0.10,,,0.00,-0.50,3.00,,,0.00,200.00,"nat capital, low industry, trade 1, all mongrels",-0.45,601240.18,,Underdark,,0
+335,High Empire of Laputarches,Mont Ferrum,128081.00,0.10,0.25,0.15,0.15,0.15,0.15,0.04,,0.00,,,,0.20,0.10,-0.20,,2300000.00,0.23,300.00,"medium medieval industry, trade 1, all dwarven pop",0.69,6478336.98,"large iron, gems",Overworld,,0
+336,Bhaerynden Kingdom,Mor Moldir,524466.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,,,,,0.00,0.10,-0.20,,3500000.00,0.35,200.00,"low medieval industry, trade 1, all duergar pop",0.41,14789941.20,"small platinum, mithril",Underdark,,0
+337,High Empire of Laputarches,Moria,23053116.00,0.10,0.25,0.15,0.20,0.20,0.15,0.04,,0.15,0.05,,,0.20,0.10,-0.20,,30250000.00,3.03,700.00,"Reg Capital, very high modern industry, trade 4, all dwarven pop",0.94,3124158280.32,"huge mithril (1925), gold (1925), silver (1925), iron (1925), moderate tungsten (1925), aluminum (1925), black sapphire (1925) low beskar (1925)",Overworld,,0
+338,Kingdom of Numenor,Morvar,138097.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,2950000.00,0.30,200.00,"low medieval industry, trade 1, all numenor pop",0.56,2155694.17,"large oil, moderate gems, aluminum",Overworld,,0
+339,Free Cities League,Mos Eisley,152961.00,0.30,0.05,0.00,0.20,0.20,-0.10,0.08,,0.05,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.38,31548206.25,,Overworld,,0
+340,Bhaerynden Kingdom,Mugruhm,312350.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,,,,,0.00,0.10,-0.20,,2000000.00,0.20,200.00,"low medieval industry, trade 1, all duergar pop",0.41,8808270.00,"large coal, oil",Underdark,,0
+341,The Myrkur Imperium,Myrkur,3116869.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,,,,,0.00,350.00,"national capital, high medieval industry, trade 3",0.56,170181047.40,,Underdark,,0
+342,Kingdom of Numenor,Myrmyr,230888.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,3604161.68,,Overworld,,0
+343,High Empire of Laputarches,Myth Drannor,7912521.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.05,,,,0.20,,,,,0.00,600.00,"medium medieval industry, trade 2",0.49,705480372.36,,Overworld,,0
+344,High Empire of Laputarches,Myth Endorium,15712.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.49,466960.64,,Overworld,,0
+345,High Empire of Laputarches,Myth Rhun,251420.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,7220782.40,,Overworld,,0
+346,High Empire of Laputarches,Myth Silva,73505.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.00,,,,0.20,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.49,2184568.60,,Overworld,,0
+347,Magic Cities,Nairn,4835944.00,0.30,0.15,0.05,,0.20,0.15,0.08,,0.00,,,,0.20,,,,,0.00,600.00,"medium modern industry, trade 1",0.28,1114201497.60,,Overworld,,0
+348,Free Cities League,Nan-Tathren,1153553.00,0.30,-0.15,0.00,0.15,0.15,-0.10,0.02,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.02,70251377.70,,Overworld,,0
+349,Britannia,Nanjing,10507120.00,0.30,-0.25,0.00,0.10,0.10,0.15,0.08,,0.20,0.05,,,0.20,,,,150000.00,0.02,350.00,"reg capital, high medieval industry, trade 5, ",0.18,1296315930.00,moderate copper (1925),Overworld,,0
+350,Kingdom of Tirion,Nargothond,71806.00,0.05,0.05,0.05,0.05,0.05,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.21,869570.66,,Overworld,,0
+351,Kingdom of Tirion,Narog,287224.00,0.05,0.05,0.05,0.05,0.05,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.21,3478282.64,,Overworld,,0
+352,Magic Cities,Narpolia,496092.00,0.30,0.15,0.05,0.20,0.20,0.10,0.08,,0.00,,0.08,,0.20,,,,600000.00,0.06,500.00,"low modern industry, trade 1, magical machinery",0.56,116085528.00,"moderate silver (1900), iron (1900)",Overworld,,0
+353,Aglarond,Nauglamir,2198262.00,0.10,0.15,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,1800000.00,0.18,300.00,"medium medieval industry, trade 1, all dwarf pop",0.51,99647216.46,large gems,Underdark,,0
+354,Syndria,Neverwinter,2256420.00,0.30,0.15,0.15,,0.20,0.10,0.02,,0.10,0.05,0.25,,0.20,,,,,0.00,350.00,"reg capital, high medieval industry, trade 3, multi-racial hub, unique spices",0.72,406324831.50,,Overworld,,0
+355,Kingdom of Numenor,New Andustar,237464.00,0.05,-0.05,0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 2",0.16,2756957.04,,Overworld,,0
+356,Kingdom of Numenor,New Armenelos,61947.00,0.05,-0.05,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.11,688231.17,,Overworld,,0
+357,Syndria,New Beleriand,785424.00,0.30,0.10,0.15,0.10,0.10,0.05,0.02,,0.00,,,,0.20,,,,500000.00,0.05,500.00,"low modern industry, trade 1",0.37,160815564.00,large iron (1920),Overworld,,0
+358,Free Cities League,New Chicago,31419.00,0.30,-0.10,0.00,0.05,0.05,-0.05,0.08,,0.00,,,,0.20,,,17.50,,0.00,500.00,"low modern industry, trade 1",0.03,4830671.25,,Overworld,,0
+359,Kingdom of Numenor,New Forostar ,3462737.00,0.05,-0.05,0.05,0.10,0.10,0.15,0.01,,0.05,0.05,,,0.00,,,,8000000.00,0.80,350.00,"Reg capital, high medieval industry, trade 2",0.21,73384053.87,"large gems, iron, copper, coal, moderate gold, low shou lung",Overworld,,0
+360,Babylon,New Gilgamesh,1028341.00,0.30,0.25,0.05,0.10,0.10,-0.05,0.04,,0.05,0.05,,,0.20,,,,100000.00,0.01,300.00,"reg capital, medium medieval industry, trade 2",0.54,142065309.15,low iron,Overworld,,0
+361,Millenium Fatherland,New Gundabad,3823445.00,0.30,0.05,0.15,0.15,0.15,0.15,0.08,,0.00,,,,0.20,0.10,-0.20,,6800000.00,0.68,350.00,"Nat capital, high medieval industry, trade 1, all dwarven pops",0.53,612229130.63,"large iron (1920), copper (1920), gold (1920), low beskar (1920), jacinthes (1920)",Overworld,,0
+362,Millenium Fatherland,New Hargunen,1262334.00,0.10,-0.10,0.15,0.15,0.15,0.15,0.08,,0.00,0.05,,,0.20,0.10,-0.20,,3200000.00,0.32,300.00,"reg Capital, medium medieval industry, trade 2, all dwarven pop",0.43,53964778.50,"large gold (1920), iron (1920), aluminum (1920)",Overworld,,0
+363,Kingdom of Numenor,New Hyarrostar,170354.00,0.05,-0.05,0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 2",0.16,1977809.94,,Overworld,,0
+364,Millenium Fatherland,New Iltkazar,1289883.00,0.10,-0.10,0.15,0.15,0.15,0.15,0.08,,0.00,,,,0.20,0.10,-0.20,,2500000.00,0.25,200.00,"low medieval industry, trade 1, all dwarven pop",0.38,35471782.50,"large black opal (1920), coal (1920), iron (1920)",Overworld,,0
+365,Britannia,New London,39464.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,7547490.00,,Overworld,,0
+366,Kingdom of Numenor,New Mittalmar,325464.00,0.05,-0.05,0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,,,,450000.00,0.05,200.00,"low medieval industry, trade 2",0.16,3778637.04,"large copper, moderate iron",Overworld,,0
+367,Kingdom of Numenor,New Nindamos,2211575.00,0.05,-0.05,0.05,0.10,0.10,0.05,0.01,,0.05,0.05,,,0.00,,,,3800000.00,0.38,300.00,"reg capital, medium medieval industry, trade 2",0.21,40173259.88,"huge oil, large gems",Overworld,,0
+368,Kingdom of Numenor,New Numenor,1666739.00,0.05,-0.05,0.05,0.10,0.10,0.15,0.01,,0.05,0.05,,,0.00,,,,,0.00,300.00,"reg capital, medium medival industry, trade 2",0.21,30276313.94,,Overworld,,0
+369,Kingdom of Numenor,New Ondosto,545027.00,0.05,-0.05,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.11,6055249.97,,Overworld,,0
+370,Britannia,New Pendragon (CAP 500k),210441.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.05,0.05,,,0.20,,,15.00,,0.00,500.00,"reg capital low modern industry, trade 2",0.38,43403456.25,,Overworld,,0
+371,Magic Cities,New Reykjavik,746807.00,0.30,-0.10,0.05,,0.20,-0.15,0.03,,0.05,,,,0.00,,,,,0.00,500.00,"low modern industry, trade 2",0.03,114821576.25,,Overworld,,0
+372,Kingdom of Numenor,New Romenna ,123894.00,0.05,-0.05,0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 2",0.16,1438409.34,,Overworld,,0
+373,Free Cities League,New Yorknew (CAP 500k),101081.00,0.30,-0.10,0.00,0.10,0.10,0.05,0.08,,0.05,,,,0.20,,,17.50,,0.00,500.00,"low modern industry, trade 2",0.13,17057418.75,,Overworld,,0
+374,Britannia,Newcastle,1923.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,367773.75,,Overworld,,0
+375,Kingdom of Belfalas,Nieuw Edhellond,3039324.00,0.05,-0.15,-0.15,0.10,0.10,0.15,0.01,,0.00,0.10,,,0.00,0.05,-0.10,,,0.00,350.00,"nat capital, high medieval industry, trade 1, all elven pop",-0.04,51113831.37,,Overworld,,0
+376,Free Cities League,Nimrodel,406883.00,0.30,-0.10,0.00,0.05,0.05,0.15,0.08,,0.00,,,,0.20,0.05,-0.10,,,0.00,500.00,"low modern industry, trade 1, all elven pop",0.08,65609883.75,,Overworld,,0
+377,Kingdom of Numenor,Nindamos,1374502.00,0.05,0.25,0.05,0.10,0.10,0.15,0.01,,0.05,0.05,,,0.00,0.15,,,,0.00,200.00,"reg capital, low medieval industry, trade 2, all numenor pop",0.66,22830478.22,,Overworld,,0
+378,Babylon,Nippur,3584510.00,0.30,0.25,0.05,0.10,0.10,0.00,0.04,,0.05,,,,0.20,,,,2350000.00,0.24,350.00,"high medieval industry, trade 2",0.49,558914721.75,"large iron, copper, moderate gold",Overworld,,0
+379,Kingdom of Numenor,Nonthal,178414.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,2785042.54,,Overworld,,0
+380,Britannia,Nottingham,1833.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,350561.25,,Overworld,,0
+381,High Empire of Laputarches,Nurn,4513524.00,0.10,0.05,0.15,0.10,0.10,0.15,0.04,,0.05,0.05,,,0.20,,,,,0.00,350.00,"reg capital, high medieval industry, trade 2,",0.44,226849716.24,,Overworld,,0
+382,Kingdom of Numenor,Nyanzaru,317192.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.05,,,,0.00,0.15,,,1500000.00,0.15,200.00,"low medieval industry, trade 2, all numenor pop",0.61,5109963.12,"large sakuradite, oil",Overworld,,0
+383,Castle Perilous,Obscurum,168387.00,0.01,0.00,0.00,0.00,0.00,0.15,0.01,,0.00,,,,0.00,-0.10,5.00,,,0.00,200.00,"low medieval industry, trade 1, all orcish pops",-0.09,306801.11,,Overworld,,0
+384,Free Cities League,October,211965.00,0.30,0.05,0.00,,0.20,0.05,0.08,,0.05,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 2",0.18,37358831.25,,Overworld,,0
+385,High Empire of Laputarches,Octum,1034743.00,0.10,0.05,0.15,0.00,0.00,0.05,0.04,,0.10,0.05,,,0.20,,,,,0.00,300.00,"reg capital, medium medieval industry, trade 3",0.39,43024613.94,,Overworld,,0
+386,Cecilia,Ofmy,10084.00,0.10,-0.05,-0.05,0.05,0.05,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 5",-0.05,192604.40,,Underdark,,0
+387,Land of Mountains,Ogdopolis,153903.00,0.10,0.05,0.05,0.05,0.05,0.15,0.01,,,0.10,,,0.00,,,,2000000.00,0.20,200.00,"nat capital, low medieval industry, trade 1, all hengyokai pop",0.26,3878355.60,huge oil,Underdark,,0
+388,Darchar,Okarthel,1038583.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.10,0.10,,,0.00,0.20,-0.40,,,0.00,350.00,"nat capital, high medieval, trade 3, bluespawn",0.76,63976712.80,,Underdark,,0
+389,The Great Jungle,Onimouth,2024096.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+390,Orario,Orario,9738936.00,0.05,0.15,0.10,0.10,0.10,0.15,0.02,,0.15,0.10,0.35,,0.00,,,,,0.00,400.00,"Nat capital, very high medieval industry, trade 4, city of gods",0.97,383324520.96,,Overworld,,0
+391,Calimshan,Oreme,571668.00,0.05,0.00,0.00,0.05,0.05,0.15,0.01,,0.05,0.10,,,0.00,-0.05,0.12,,150000.00,0.02,300.00,"Nat capital, medium medieval industry, trade 2, all Asabi pop ",0.16,9955598.22,"low copper, iron",Overworld,,0
+392,Millenium Fatherland,Orte,3952594.00,0.30,0.20,0.15,0.20,0.20,0.15,0.08,,0.00,,0.05,,0.20,,,,100000.00,0.01,600.00,"medium modern industry, trade 1, dinosaur labor",0.68,1191707091.00,low iron (1900),Overworld,,0
+393,Britannia,Orth,1080329.00,0.30,0.00,0.00,,0.20,0.05,0.08,,0.10,0.05,,,0.20,,,,,0.00,600.00,"reg capital, medium modern industry, trade 3, The Abyss",0.23,238212544.50,,Overworld,,0
+394,Kalgor,Oryndoll,827983.00,0.10,0.05,0.05,0.05,0.05,0.10,0.01,,0.05,0.10,0.15,,0.00,,-0.20,,800000.00,0.08,300.00,"nat capital, medium medieval, trade 2, large slave population, all mindflayer",0.46,36265655.40,"large iron, small tungsten",Underdark,,0
+395,High Empire of Laputarches,Osgiliath,4443164.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.10,,,,0.20,,,,,0.00,350.00,"high medieval industry, trade 3",0.54,238864496.64,,Overworld,,0
+396,Millenium Fatherland,Otto,1870.00,0.30,0.05,0.15,0.15,0.15,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.48,413737.50,,Overworld,,0
+397,Britannia,Ou Ki City,6034697.00,0.30,-0.25,0.00,0.10,0.10,0.15,0.08,,0.00,,,,0.20,,,,700000.00,0.07,300.00,"medum medieval industry, trade 1",-0.08,502388525.25,"large iron (1925), aluminum (1925)",Overworld,,0
+398,Cecilia,Out,10084.00,0.10,-0.05,-0.05,0.05,0.05,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 4",-0.05,192604.40,,Underdark,,0
+399,Britannia,Oxford,2187920.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.05,,,,0.20,,,,650000.00,0.07,600.00,"medium modern industry, trade 2",0.23,482436360.00,"large iron  (1910), moderate copper  (1910)",Overworld,,0
+400,Duistern,Oxstar,10187.00,0.10,0.15,0.15,0.00,0.00,0.20,0.05,,0.00,,0.15,,0.00,0.08,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all star elves, Cities of Light Portal Network",0.58,322112.94,,Underdark,,0
+401,Britannia,Pappelt,151473.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,28969211.25,,Overworld,,0
+402,Dragon Slayer Coalition,Patayang,102321.00,0.10,0.05,0.05,0.10,0.10,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.21,2476168.20,,Underdark,,0
+403,High Empire of Laputarches,Pelargir,3393644.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.15,,,,0.20,,,,,0.00,350.00,"high medieval industry, trade 4",0.59,188381178.44,,Overworld,,0
+404,Calimshan,Peleveran,111887.00,0.05,0.00,0.00,0.05,0.05,0.15,0.01,,0.00,,,,0.00,-0.05,-0.20,,500000.00,0.05,200.00,"low medieval industry, trade 1, all Loxo pop",0.01,1131177.57,large coal,Overworld,,0
+405,Macedon,Pella,1557934.00,0.05,0.05,0.05,0.10,0.10,0.15,0.01,,0.05,0.10,,,0.00,,,,,0.00,300.00,"nat capital, medium medieval industry, trade 2",0.36,31805222.61,,Overworld,,0
+406,Britannia,Pendragon,12131190.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.20,0.10,0.16,,0.20,,,,,0.00,700.00,"Nat Capital, very high modern industry, trade 5, medium portal",0.64,4165244086.50,,Overworld,,0
+407,Kingdom of Gondolin,Penlod,1563642.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,18153883.62,,Overworld,,0
+408,Theocracy,Perinthus,306212.00,0.05,0.00,-0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.06,3248909.32,,Overworld,,0
+409,Magic Cities,Petramburg,912630.00,0.30,-0.10,0.05,0.10,0.10,0.15,0.02,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.07,58317057.00,,Overworld,,0
+410,Scythia,Phanagoria,101084.00,0.10,0.05,0.05,0.05,0.05,-0.05,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,2345148.80,,Underdark,,0
+411,Magic Cities,Planitiem,1781064.00,0.30,-0.10,0.05,0.10,0.10,0.10,0.02,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.07,113809989.60,,Overworld,,0
+412,The Great Jungle,Plegow,3036144.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+413,Darchar,Plestead,102576.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.20,-0.40,,,0.00,200.00,"low medieval industry, trade 1, bluespawn",0.56,3200371.20,,Underdark,,0
+414,Britannia,Potosi ,2221465.00,0.30,0.00,0.00,0.20,0.20,0.00,0.08,,0.10,,0.18,,0.20,,,,5900000.00,5.90,650.00,"high modern industry, trade 3, ancient capital, oxford/star aquarium",0.56,673603724.63,"large adamantium (1920), silver (1920), anti-magicite (1920), gems (1920), giant iron (1920)",Overworld,,0
+415,Britannia,Priestella,119015.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22761618.75,,Overworld,,0
+416,Kalgor,Qrane,132687.00,0.10,0.05,0.05,0.05,0.05,0.05,0.01,,,,0.15,,0.00,,-0.20,,,0.00,200.00,"low medieval, trade 1, large slave population, all mindflayer",0.31,3476399.40,,Underdark,,0
+417,Darchar,Qrens,572638.00,0.10,0.05,0.10,0.10,0.10,0.05,0.01,,0.10,,,,0.00,-0.15,0.30,,,0.00,300.00,"medium medieval industry, trade 3, kobold",0.21,20786759.40,,Underdark,,0
+418,High Empire of Laputarches,Rafbel,4119.00,0.10,0.00,0.15,0.00,0.00,0.15,0.04,,0.00,,0.15,,0.20,0.05,-0.10,15.00,,0.00,200.00,"low medieval industry, trade 1, all elven pop heavenly paradise",0.39,114178.68,,Overworld,,0
+419,Bahamut's Realm,Rahmen,152536.00,0.10,0.05,0.05,0.10,0.10,0.10,0.01,,,,,,0.00,0.15,-0.40,,1100000.00,0.11,200.00,"low medieval industry, trade 1, all dragonborn",0.36,4148979.20,"large silver, iron",Underdark,,0
+420,Duistern,Raito,52371.00,0.10,0.15,0.15,0.00,0.00,0.20,0.05,,0.00,,0.15,,0.00,0.08,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all star elves, Cities of Light Portal Network",0.58,1655971.02,,Underdark,,0
+421,Magic Cities,Rakusho,2425574.00,0.30,0.25,0.05,0.20,0.20,0.15,0.08,,0.00,,0.08,,0.20,,,,,0.00,600.00,"medium modern industry, trade 1, magical machinery",0.66,724761511.20,,Overworld,,0
+422,Magic Cities,Randers,3335.00,0.30,0.00,0.05,,0.20,0.10,0.03,,0.00,,,,0.00,,,15.00,1500000.00,1.50,500.00,"low modern industry, trade 1",0.08,537768.75,moderate berserker stones (1920),Overworld,,0
+423,Kingdom of Athala,Rathala,30371.00,0.10,0.00,0.00,0.05,0.05,0.10,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 1",0.06,643865.20,,Underdark,,0
+424,Gracklstun Kingdom,Rebus,306200.00,0.10,-0.05,0.00,0.05,0.05,0.00,0.01,,0.05,0.05,,,0.00,-0.05,0.10,,,0.00,200.00,"reg capital, low medieval, trade 1, all deep gnome",0.06,6491440.00,,Underdark,,0
+425,Millenium Fatherland,Reichsberg,1639.00,0.30,0.10,0.15,0.10,0.10,-0.15,0.08,,0.05,,0.05,,0.20,,,15.00,900000.00,0.90,500.00,"low modern industry, trade 2, dinosaur labor",0.53,374921.25,"large tungsten (1920), moderate aluminum (1920)",Overworld,,0
+426,Magic Cities,Remano,1047818.00,0.30,0.15,0.05,0.20,0.20,0.15,0.08,,0.05,0.05,0.08,,0.20,,,,,0.00,600.00,"reg capital, medium modern industry, trade 2, magical machinery, Gov seat",0.66,313088018.40,,Overworld,,0
+427,High Empire of Laputarches,Rhun,3376907.00,0.10,0.10,0.15,0.10,0.10,0.15,0.04,,0.05,0.05,,,0.20,,,,,0.00,350.00,"Reg capital, high medieval industry, trade 2",0.49,175632933.07,,Overworld,,0
+428,Magic Cities,Rimuru,7189339.00,0.30,0.25,0.05,0.20,0.20,0.15,0.08,,0.05,0.05,0.23,,0.20,,,,50000.00,0.01,650.00,"high modern industry, trade 2, magical machinery, Gov seat, Numerous powerful mages",0.91,2677669310.55,low aluminum (1900),Overworld,,0
+429,Kingdom of Belfalas,Ringlo,302420.00,0.05,-0.15,-0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",-0.14,2603836.20,,Overworld,,0
+430,Britannia,Rinistria,292046.00,0.30,0.00,0.00,0.20,0.20,0.15,0.08,,0.15,,,,0.20,,,,300000.00,0.03,600.00,"medium modern industry, trade 4",0.43,74909799.00,small tungsten (1920),Overworld,,0
+431,High Empire of Laputarches,Rithlond,94181.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.49,2799059.32,,Overworld,,0
+432,High Empire of Laputarches,Rivendell,241278.00,0.10,0.15,0.15,0.10,0.10,0.15,0.04,,0.00,,,,0.20,0.05,-0.10,,,0.00,200.00," low medieval industry, trade 1, all elven pop",0.49,7170782.16,,Overworld,,0
+433,Kingdom of Gondolin,Riverbend,102325.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,1187993.25,,Overworld,,0
+434,Kingdom of Numenor,Riverton,384430.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,6000952.30,,Overworld,,0
+435,Magic Cities,Rochester,2547108.00,0.30,-0.10,0.05,0.10,0.10,-0.15,0.03,,0.05,,,,0.00,,,,700000.00,0.07,350.00,"high medieval industry, trade 2",0.13,300877132.50,"large iron (1920), copper (1920)",Overworld,,0
+436,Syndria,Rocksha,2029.00,0.30,0.15,0.15,,0.20,0.00,0.08,,0.00,,0.10,,0.20,,,15.00,2250000.00,2.25,500.00,"low modern industry, trade 1, unique spices",0.48,448916.25,"large tunsten (1920), oil (1920)",Overworld,,0
+437,Magic Cities,Rockshire,257422.00,0.30,-0.10,0.05,0.10,0.10,0.10,0.02,,0.00,,,,0.00,,,,950000.00,0.10,200.00,"low medieval industry, trade 1",0.07,16449265.80,"large copper (1920), tungsten (1920)",Overworld,,0
+438,Kingdom of Numenor,Romanus,1811.00,0.05,0.25,0.05,0.00,0.00,0.05,0.01,,0.00,,,,0.00,0.15,,17.50,4250000.00,4.25,200.00,"low medieval industry, trade 1, all numenor pop",0.46,26458.71,"large adamantium, moderate platinum",Overworld,,0
+439,High Empire of Laputarches,Rurn,126043.00,0.10,0.05,0.15,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1,",0.34,3367868.96,,Overworld,,0
+440,Calimshan,Rusthorn,101165.00,0.05,0.00,0.00,0.05,0.05,0.15,0.01,,0.00,,,,0.00,-0.05,0.12,,,0.00,200.00,"low medieval industry, trade 1, all asabi pop",0.01,1022778.15,,Overworld,,0
+441,Magic Cities,Safed,306536.00,0.30,-0.10,0.05,0.10,0.10,0.15,0.02,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.07,1195490.40,,Overworld,,0
+442,Kingdom of Gondolin,Salgant,2251158.00,0.05,-0.05,-0.05,0.10,0.10,0.15,0.01,,0.05,0.05,,,0.00,0.05,-0.10,,,0.00,300.00,"reg capital, medium medieval industry, trade 2, all elven pop",0.16,39203916.57,,Overworld,,0
+443,Britannia,Salisbury,953572.00,0.30,0.00,0.00,0.15,0.15,0.10,0.02,,0.00,,,,0.20,,,,1300000.00,0.13,300.00,"medium medieval industry, trade 1,",0.17,100325310.12,"large aluminum (1920), low gold (1920), silver (1920)",Overworld,,0
+444,Syndria,Samaka,2243.00,0.30,0.25,0.15,0.20,0.20,0.05,0.08,,0.00,,0.20,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,630843.75,,Overworld,,0
+445,Britannia,Sand,273328.00,0.30,-0.10,0.00,0.20,0.20,-0.10,0.08,,0.00,,,,0.20,,,,200000.00,0.02,500.00,"low modern industry, trade 1",0.18,48174060.00,large copper (1925),Overworld,,0
+446,High Empire of Laputarches,Sanrilla,1194.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,2500000.00,2.50,500.00,"low modern industry, trade 1, all dwarven",0.54,91699.20,"large oil, Low adamantium (1925)",Overworld,,0
+447,Millenium Fatherland,Schlicht,153636.00,0.30,0.20,0.15,0.20,0.20,0.10,0.08,,0.00,,0.05,,0.20,,,,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.68,38601045.00,,Overworld,,0
+448,Scythia,Scythia,202168.00,0.10,0.05,0.05,0.05,0.05,-0.05,0.01,,,,,,0.00,,,,,0.00,200.00,"nat capital, low medieval industry, trade 1",0.16,4690297.60,,Underdark,,0
+449,Amon Rudh,Seregon,1141636.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.10,-0.20,,850000.00,0.09,300.00,"medium medieval industry, trade 2, all dwarven pop",0.46,50037905.88,huge silver,Overworld,,0
+450,Britannia,Sheffield,1831.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1,",0.28,350178.75,,Overworld,,0
+451,Babylon,Shenzhen,736284.00,0.30,-0.25,0.05,0.10,0.10,0.10,0.03,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",-0.08,40863762.00,,Overworld,,0
+452,Britannia,Shet,119256.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22807710.00,,Overworld,,0
+453,High Empire of Laputarches,Shincho,1898.00,0.10,0.05,0.15,0.00,0.00,0.15,0.04,,0.00,,,,0.20,-0.50,2.00,15.00,,0.00,200.00,"low medieval industry, trade 1, pterafolk",-0.26,27938.56,,Overworld,,0
+454,Lux Imperium,Shuburgh,155407.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all drow pop",0.41,4385585.54,,Underdark,,0
+455,Britannia,Siltvelt,2692853.00,0.30,0.00,0.00,,0.20,0.05,0.08,,0.05,,,,0.20,,,,400000.00,0.04,650.00,"high modern industry, trade 2",0.13,590744626.88,"moderate iron (1900), aluminum (1900)",Overworld,,0
+456,Free Cities League,Sirion,101721.00,0.30,-0.10,0.00,0.05,0.05,0.15,0.08,,0.00,,,,0.20,0.05,-0.10,,,0.00,500.00,"low modern industry, trade 1, all elven pop",0.08,16402511.25,,Overworld,,0
+457,Magic Cities,Skaal,2107.00,0.30,0.00,0.05,,0.20,0.05,0.03,,0.00,,,,0.00,,,15.00,,0.00,200.00,"low medieval industry, trade 1",0.08,135901.50,,Overworld,,0
+458,Kingdom of Numenor,Sleekhall,100911.00,0.05,0.25,0.05,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,1575220.71,,Overworld,,0
+459,Lux Imperium,Sliphis,155407.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all drow pop",0.41,4385585.54,,Underdark,,0
+460,Cecilia,Smoke,40329.00,0.10,-0.05,-0.05,0.05,0.05,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 2",-0.05,770283.90,,Underdark,,0
+461,Kingdom of Numenor,Sokkar,293131.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,4575774.91,,Overworld,,0
+462,Lux Imperium,Solalis,2124047.00,0.10,0.25,0.15,0.00,0.00,0.15,0.01,,0.15,,,,0.00,0.05,-0.10,,3000000.00,0.30,300.00,"medium medieval industry, trade 4, all drow pop",0.61,102655191.51,,Underdark,,0
+463,Kingdom of Numenor,Solos,2695.00,0.05,0.25,0.05,0.00,0.00,0.05,0.01,,0.05,,,,0.00,0.15,,17.50,6000000.00,6.00,200.00,"low medieval industry, trade 2, all numenor pop",0.51,40721.45,large sunstone,Overworld,,0
+464,Sparta,Sparta,515437.00,0.05,0.05,0.05,0.05,0.05,0.05,0.01,,0.05,0.10,,,0.00,,,,,0.00,200.00,"nat capital, low medieval industry, trade 2",0.31,6752224.70,,Overworld,,0
+465,Millenium Fatherland,Speyer,13347.00,0.30,0.10,0.15,0.10,0.10,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,1200000.00,1.20,500.00,"low modern industry, trade 1, dinosaur labor",0.48,2953023.75,"large aluminum (1920), coal (1920), anti-magicite (1920), moderate tungsten (1920)",Overworld,,0
+466,The Myrkur Imperium,Sradlas,1026663.00,0.10,0.05,0.10,0.10,0.10,0.05,0.01,,0.05,0.05,,,0.00,,,,,0.00,350.00,"high medieval industry, trade 2",0.36,48869158.80,,Underdark,,0
+467,Darchar,Sranta,102576.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.20,-0.40,,,0.00,200.00,"low medieval industry, trade 1, bluespawn",0.56,3200371.20,,Underdark,,0
+468,The Great Jungle,Srord,4048192.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+469,Sshamath,Sshamath,6060352.00,0.00,-0.05,-0.05,0.00,0.00,0.20,0.00,,0.00,0.10,,,0.00,-0.35,15.00,,,,200.00,"nat capital, low medieval industry, trade 1",-0.35,0.00,,Underdark,,0
+470,Britannia,Starfort David,75849.00,0.30,0.00,0.00,0.20,0.20,0.05,0.08,,0.15,,0.06,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 4, medium portal",0.49,16895364.75,,Overworld,,0
+471,The Cube,Stodiff,101852.00,0.10,0.00,0.00,0.00,0.00,0.05,0.01,,,,,,0.00,-0.15,0.30,,,0.00,100.00,"low medieval industry, trade 1, all derro pop",-0.14,875927.20,,Underdark,,0
+472,The Myrkur Imperium,Stohull,1050530.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,,,,4300000.00,0.43,300.00,"medium medieval industry, trade 2",0.41,44437419.00,"large gold, gems",Underdark,,0
+473,Britannia,Stone,297505.00,0.10,-0.10,0.00,0.20,0.20,0.00,0.08,,0.00,,,,0.20,,,,900000.00,0.09,200.00,"low medieval industry, trade 1",0.18,6991367.50,"large iron (1925), copper (1925), low silver (1925)",Overworld,,0
+474,Darchar,Strapus,308801.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.05,,,,0.00,0.20,-0.40,,200000.00,0.02,200.00,"low medieval industry, trade 2, bluespawn",0.61,9943392.20,large copper,Underdark,,0
+475,The Great Jungle,Strence,6072288.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+476,Athens,Styra,102321.00,0.05,0.05,0.05,0.05,0.05,0.05,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,1186923.60,,Overworld,,0
+477,Sundabar,Sundabar,42987.00,0.05,0.25,0.15,0.10,0.10,0.15,0.01,,0.00,0.10,0.15,,0.00,0.08,-0.10,,3100000.00,0.31,200.00,"Nat Capital, low medieval industry, trade 1, all Sun elf pop, Cities of Light Portal Network",0.84,791390.67,"large gold, silver",Overworld,,0
+478,The Myrkur Imperium,Suver,773061.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 2",0.36,31540888.80,,Underdark,,0
+479,Babylon,Suzhou,451501.00,0.30,-0.25,0.05,0.10,0.10,0.05,0.03,,0.05,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 2",-0.03,26412808.50,,Overworld,,0
+480,Dragon Slayer Coalition,Svardborg,103335.00,0.10,0.05,0.05,0.10,0.10,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.21,2500707.00,,Underdark,,0
+481,Syndria,Syndria,28558619.00,0.30,0.25,0.15,0.20,0.20,0.15,0.08,,0.20,0.10,0.73,,0.20,,,,2550000.00,0.26,700.00,"Nat capital, very high modern industry, trade 5, huge portal, Grand Harbor, Galleylaw, magical machinery, Colossi Of Syndrida (5%)",1.71,16222723522.95,"moderate iron seastone (1900), platinum (1900), low tungsten (1900)",Overworld,,0
+482,Free Cities League,Syracuse,635988.00,0.30,-0.15,0.00,,0.20,0.05,0.08,,0.05,0.05,,,0.20,0.05,-0.10,,,0.00,500.00,"reg capital, low modern industry, trade 2, large elf pop",0.08,102553065.00,,Overworld,,0
+483,High Empire of Laputarches,Talgard,157121.00,0.10,0.15,0.15,0.10,0.10,0.05,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,4512515.12,,Overworld,,0
+484,Kingdom of Gondolin,Taniquetil,654882.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,7603180.02,,Overworld,,0
+485,Kingdom of Tirion,Taras,61700.00,0.05,0.05,0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.26,778037.00,,Overworld,,0
+486,Pluvianos,Tarkhaldan,1151014.00,0.05,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,0.10,,,0.00,0.05,0.00,,,0.00,300.00,"nat capital, medium medieval industry, trade 2, all bladebacks",0.51,26087732.31,,Overworld,,0
+487,Syndria,Tazij,2235.00,0.30,0.25,0.15,0.20,0.20,-0.05,0.08,,0.00,,0.20,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,628593.75,,Overworld,,0
+488,Aglarond,Telchar,1365353.00,0.10,0.15,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,2750000.00,0.28,300.00,"medium medieval industry, trade 1, all dwarf pop",0.51,61891451.49,"large iron, moderate damestear, low gems, copper",Underdark,,0
+489,Magic Cities,Tempest,1234533.00,0.30,0.25,0.05,0.20,0.20,0.05,0.08,,0.05,,0.08,,0.20,,,,,0.00,600.00,"medium modern industry, trade 2, magical machinery",0.71,379989257.40,,Overworld,,0
+490,High Empire of Laputarches,Tempestus (2m cap),1000.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,,0.20,,2.20,0.20,,15.00,,0.00,500.00,"low modern industry, trade 1, aerial transportation",0.90,47500.00,,Overworld,,0
+491,Calimshan,Teshburl,278346.00,0.05,0.00,0.00,0.05,0.05,0.15,0.01,,0.00,,,,0.00,-0.05,0.12,,,0.00,200.00,"low medieval industry, trade 1, all asabi pop",0.01,2814078.06,,Overworld,,0
+492,High Empire of Laputarches,Tharbad,873721.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.05,,,,0.20,,,,,0.00,300.00,"medium medieval industry, trade 2",0.49,38950482.18,,Overworld,,0
+493,Avernien Kingdom,Thargelion,327442.00,0.05,0.10,0.10,0.10,0.10,-0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.31,4292764.62,,Overworld,,0
+494,Syndria,Tharwa,20696.00,0.30,0.25,0.15,0.20,0.20,-0.05,0.08,,0.00,,0.20,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, Unique Spices S",0.88,5820750.00,,Overworld,,0
+495,Athens,Thebes,255803.00,0.05,0.05,0.05,0.05,0.05,0.05,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,2967314.80,,Overworld,,0
+496,High Empire of Laputarches,Theodenville,31471.00,0.10,0.15,0.15,0.10,0.10,0.10,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.44,903847.12,,Overworld,,0
+497,High Empire of Laputarches,Thongrun,1236.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,6750000.00,6.75,500.00,"low modern industry, trade 1, all dwarven",0.54,94924.80,large seastone (1925) moderate biest stone (1925),Overworld,,0
+498,Theocracy,Thracia,2564506.00,0.05,0.00,-0.05,0.10,0.10,0.15,0.01,,0.05,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 2",0.11,42737492.49,,Overworld,,0
+499,Syndria,Thriller City,55699.00,0.30,0.15,0.15,,0.20,0.05,0.03,,0.00,,0.15,,0.20,,,,,0.00,500.00," low modern industry, trade 1, gecko moria slaves,unique spices",0.48,12398597.40,,Overworld,,0
+500,High Empire of Laputarches,Thun,105007.00,0.10,0.10,0.15,0.10,0.10,0.15,0.04,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",0.39,2910794.04,,Overworld,,0
+501,Magic Cities,Tiberias,559434.00,0.30,-0.10,0.05,0.10,0.10,0.10,0.02,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.07,35747832.60,,Overworld,,0
+502,Britannia,Tintagel,16135.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1",0.28,3085818.75,,Overworld,,0
+503,Kingdom of Gondolin,Tirion,1279939.00,0.05,0.05,-0.05,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.16,14860091.79,,Overworld,,0
+504,High Empire of Laputarches,Tirol,1000.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,850000.00,0.85,500.00,"low modern industry, trade 1, all dwarven",0.54,76800.00,INFINITE HUGE SILVER,Overworld,,0
+505,Cecilia,Tobacco,30308.00,0.10,-0.05,-0.05,0.05,0.05,0.05,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval, trade 1",-0.05,578882.80,,Underdark,,0
+506,Britannia,Tokyo,3878949.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.15,,0.20,,0.20,,,,1000000.00,0.10,650.00,"high modern industry, trade 4, large portal",0.53,1153502458.88,"moderate oil (1900), unused medium sakuradite",Overworld,,0
+507,Britannia,Tonryuu,9771062.00,0.30,-0.25,0.00,0.10,0.10,0.15,0.08,,0.05,,,,0.20,,,,1750000.00,0.18,350.00,"high medieval industry, trade 2",-0.03,1000312472.25,"large oil (1925), moderate coal (1925)",Overworld,,0
+508,The Great Jungle,Trelross,2024096.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+509,Britannia,Triangle,967981.00,0.30,0.00,0.00,0.15,0.15,0.10,0.02,,0.00,,,,0.20,,,,4350000.00,0.44,300.00,"medium medieval industry, trade 1,",0.17,101841281.01,"large damestear (1920), black opal (1920), moderate silver (1920)",Overworld,,0
+510,Darchar,Trinas,837069.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.10,,,,0.00,-0.15,0.30,,,0.00,300.00,"medium medieval industry, trade 3, kobold",0.21,30385604.70,,Underdark,,0
+511,Darchar,Troit,937046.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.10,0.05,,,0.00,,,,,0.00,300.00,"medium medieval, trade 3, all greenspawn",0.41,39637045.80,,Underdark,,0
+512,Darchar,Troria,310031.00,0.10,0.05,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval, trade 1, all greenspawn",0.26,7812781.20,,Underdark,,0
+513,Free Cities League,Troy,1000.00,0.30,-0.10,0.00,0.05,0.05,-0.05,0.08,,0.00,,,,0.20,,,17.50,,0.00,500.00,"low modern industry, trade 3",0.03,153750.00,,Overworld,,0
+514,Free Cities League,Troy,1279675.00,0.30,0.25,0.00,0.20,0.20,0.10,0.08,,0.05,,,,0.20,,,,,0.00,600.00,"medium modern industry, trade 2",0.58,362787862.50,,Overworld,,0
+515,Kingdom of Gondolin,Tuor,171799.00,0.05,-0.05,-0.05,0.10,0.10,0.00,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.06,1822787.39,,Overworld,,0
+516,Scythia,Tyras,50769.00,0.10,0.05,0.05,0.05,0.05,0.10,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.16,1177840.80,,Underdark,,0
+517,The Great Jungle,Ucrouvine,5060240.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+518,Calimshan,Umbar,3221326.00,0.05,0.00,0.00,0.00,0.00,0.15,0.01,,0.10,0.10,,,0.00,,,,,0.00,350.00,"Nat capital, high medieval industry, trade 3, ",0.21,68267951.26,,Overworld,,0
+519,Mazulun,Umbron,205662.00,0.10,0.20,0.15,0.10,0.10,0.15,0.01,,,,,,0.00,,,,750000.00,0.08,200.00,"low medieval industry, trade 1, all firenewt pop",0.46,6005330.40,huge iron,Underdark,,0
+520,Babylon,Ur,3748837.00,0.30,0.25,0.05,0.10,0.10,0.15,0.04,,0.05,,,,0.20,,,,350000.00,0.04,300.00,"medium medieval industry, trade 2",0.49,501032065.05,"low copper, tungsten",Overworld,,0
+521,Chiefdom of Urgblog,Urgby,613554.00,0.10,0.00,0.00,0.05,0.05,0.15,0.01,,0.05,0.10,,,0.00,0.05,-0.10,,,0.00,300.00,"nat capital, medium medieval industry, trade 2, all orog pop",0.26,23192341.20,,Underdark,,0
+522,Babylon,Uruk,8080305.00,0.30,0.25,0.05,0.10,0.10,0.15,0.04,,0.10,,,,0.20,,,,,0.00,350.00,"high medieval industry, trade 3",0.54,1302343158.38,,Overworld,,0
+523,Free Cities League,Utica,1168890.00,0.30,-0.15,0.00,0.15,0.15,0.05,0.08,,0.00,,,,0.20,0.05,-0.10,,,0.00,600.00,"medium modern industry, trade 1, large elf pop",0.13,236700225.00,,Overworld,,0
+524,High Empire of Laputarches,Vale,106257.00,0.10,0.25,0.15,0.15,0.15,0.15,0.04,,0.00,,,,0.20,0.10,-0.20,,16350000.00,1.64,200.00,"low medieval industry, trade 1, all dwarven pop",0.69,3582986.04,"large mithril, jacinth, moderate silver",Overworld,,0
+525,High Empire of Laputarches,Velaria,1171.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,200000.00,0.20,500.00,"low modern industry, trade 1, all dwarven",0.54,89932.80,"large copper (1925), Blacksteel/aetherium (1925)",Overworld,,0
+526,Millenium Fatherland,Venedig,2365.00,0.30,0.05,0.15,0.15,0.15,-0.15,0.08,,0.00,0.05,0.05,,0.20,,,15.00,,0.00,500.00,"reg capital, low modern industry, trade 1, dinosaur labor",0.53,540993.75,,Overworld,,0
+527,Magic Cities,Verkrachting,4532012.00,0.30,-0.15,0.05,0.10,0.10,0.05,0.01,,0.00,0.05,,,0.00,,,,,0.00,200.00,"reg capital, low medieval, trade 1",0.06,289051725.36,,Overworld,,0
+528,High Empire of Laputarches,Vilboldir,1169.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,,0.00,500.00,"low modern industry, trade 1, all dwarven",0.54,89779.20,"moderate beskar (1925), mithril (1925)",Overworld,,0
+529,High Empire of Laputarches,Vinbuhr,1178.00,0.10,0.10,0.15,0.15,0.15,-0.15,0.04,,0.00,,,,0.20,0.10,-0.20,15.00,900000.00,0.90,500.00,"low modern industry, trade 1, all dwarven",0.54,90470.40,"large iron (1925), copper (1925), aluminum (1925)",Overworld,,0
+530,Kingdom of Tirion,Vinyamar,538745.00,0.05,0.05,0.05,0.10,0.10,0.15,0.01,,0.05,0.10,,,0.00,0.05,-0.10,,,0.00,200.00,"Nat capital, low medieval industry, trade 2, all elven pop",0.41,7601691.95,,Overworld,,0
+531,Avernien Kingdom,Vinyamaril,112279.00,0.05,0.10,0.10,0.05,0.05,-0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.26,1415838.19,,Overworld,,0
+532,The Great Jungle,Vlefmery,5060240.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+533,Lux Imperium,Vlin,1051572.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.10,0.05,,,0.00,-0.05,0.15,,,0.00,300.00,"reg capital, medium medieval industry, trade 3, all yuan-ti pop",0.46,46090400.76,,Underdark,,0
+534,The Great Jungle,Vloridge,3036144.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+535,High Empire of Laputarches,Volaris (100k cap),10500.00,0.05,0.25,0.15,,,0.40,0.10,,0.00,,0.20,,2.20,0.20,,,,0.00,500.00,"low modern industry, trade 1, aerial transportation",0.90,498750.00,,Overworld,,0
+536,Millenium Fatherland,Voloberg,1605.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,250000.00,0.25,500.00,"low modern industry, trade 1, dinosaur labor",0.33,318993.75,moderate coal (1920),Overworld,,0
+537,Bhaerynden Kingdom,Vornfarum,1039097.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,0.10,-0.20,,1100000.00,0.11,300.00,"medium medieval industry, trade 2, duergar",0.46,45512448.60,"large iron, silver",Underdark,,0
+538,Darchar,Vrogas,309262.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.00,,,,0.00,0.10,-0.20,,,0.00,200.00,"low medieval industry, trade 1, all redspawn",0.46,9030450.40,,Underdark,,0
+539,Millenium Fatherland,Waldberg,1168.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,232140.00,,Overworld,,0
+540,Syndria,Waterdeep,1606.00,0.30,0.15,0.15,,0.20,-0.05,0.02,,0.05,,0.10,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 2, unique spices",0.47,352918.50,,Overworld,,0
+541,Kingdom of Gondolin,Wethrin,848891.00,0.05,0.00,-0.05,0.10,0.10,-0.05,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all elven pop",0.11,9431179.01,,Overworld,,0
+542,Magic Cities,Wexford,460131.00,0.30,-0.10,0.05,,0.20,-0.15,0.03,,0.00,,,,0.00,,,,,0.00,500.00,"low modern industry, trade 1",-0.03,67294158.75,,Overworld,,0
+543,Millenium Fatherland,Wilhelmsland,31161.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,0.05,0.05,,0.20,,,15.00,400000.00,0.40,500.00,"reg capital, low modern industry, trade 1, dinosaur labor",0.38,6426956.25,"moderate iron (1920), aluminum (1920)",Overworld,,0
+544,Millenium Fatherland,Wismar,2229.00,0.30,0.10,0.15,0.15,0.15,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,400000.00,0.40,500.00,"low modern industry, trade 1, dinosaur labor",0.53,509883.75,"moderate iron (1920), copper (1920)",Overworld,,0
+545,The Myrkur Imperium,Woiyving,774597.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.05,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 2",0.41,32765453.10,,Underdark,,0
+546,Millenium Fatherland,Worms,1958.00,0.30,0.05,0.15,,0.20,-0.15,0.08,,0.00,,0.05,,0.20,,,15.00,,0.00,500.00,"low modern industry, trade 1, dinosaur labor",0.33,389152.50,,Overworld,,0
+547,The Myrkur Imperium,Wraka,618450.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.05,,,,0.00,,,,,0.00,300.00,"medium medieval industry, trade 2",0.41,26160435.00,,Underdark,,0
+548,The Great Jungle,Wralvale,8096385.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+549,Gracklstun Kingdom,Wrolsey,81491.00,0.10,-0.05,0.00,0.05,0.05,0.00,0.01,,,,,,0.00,-0.05,0.10,,,0.00,200.00,"low medieval industry, trade 1, all deep gnomes",-0.04,1564627.20,,Underdark,,0
+550,Gracklstun Kingdom,Wrosa,151868.00,0.10,-0.05,0.00,0.05,0.05,0.00,0.01,,,,,,0.00,-0.05,0.10,,,0.00,200.00,"low medieval industry, trade 1, all deep gnomes",-0.04,2915865.60,,Underdark,,0
+551,The Great Jungle,Wrueset,1012048.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+552,Babylon,Wuhan,380499.00,0.30,-0.25,0.05,0.10,0.10,0.10,0.03,,0.00,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 1",-0.08,21117694.50,,Overworld,,0
+553,Britannia,Wyndham,119015.00,0.30,0.00,0.00,0.20,0.20,0.10,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.28,22761618.75,,Overworld,,0
+554,The Myrkur Imperium,Xeson,153084.00,0.10,0.05,0.10,0.10,0.10,0.00,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.26,3857716.80,,Underdark,,0
+555,Babylon,Xi'an,792057.00,0.30,-0.25,0.05,0.10,0.10,0.10,0.03,,0.05,,,,0.20,,,,,0.00,200.00,"low medieval industry, trade 2",-0.03,46335334.50,,Overworld,,0
+556,High Empire of Laputarches,Yama,1898.00,0.10,0.05,0.15,0.00,0.00,0.15,0.04,,0.00,,,,0.20,-0.50,2.00,15.00,,0.00,200.00,"low medieval industry, trade 1, pterafolk",-0.26,27938.56,,Overworld,,0
+557,The Cube,Ylont,305558.00,0.10,0.00,0.00,0.00,0.00,0.05,0.01,,,,,,0.00,-0.15,0.30,,,0.00,200.00,"low medieval industry, trade 1, all derro pop",-0.14,5255597.60,,Underdark,,0
+558,Britannia,York,326338.00,0.30,-0.10,0.00,0.20,0.20,0.15,0.08,,0.00,,,,0.20,,,,,0.00,500.00,"low modern industry, trade 1",0.18,57517072.50,,Overworld,,0
+559,Free Cities League,Yorknew City,12963192.00,0.30,0.25,0.00,0.20,0.20,0.15,0.08,,0.15,0.10,0.05,,0.20,,,,,0.00,650.00,"Nat Capital, high modern industry, trade 4",0.83,4613275953.00,,Overworld,,0
+560,Free People of Zahard,Zahard City,10401.00,0.05,0.00,0.00,0.00,0.00,-0.15,0.03,,0.00,0.10,,,2.00,,,,5250000.00,0.53,500.00,"nat capital, low modern industry, trade 1, ",0.13,293828.25,"huge sakuradite, anti-magicite, large gold, adamantium",Overworld,,0
+561,Zakhara,Zakhara,107442.00,0.01,,0.05,0.00,0.00,0.15,0.01,,0.00,0.10,,,0.00,0.10,-0.20,,,0.00,200.00,"nat capital, low medieval industry, trade 1, all desert giant pop",0.26,270968.72,,Overworld,,0
+562,Chiefdom of Urgblog,Zhark,203300.00,0.10,0.00,0.00,0.05,0.05,0.15,0.01,,,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all orog pop",0.11,4513260.00,,Underdark,,0
+563,Dragon Slayer Coalition,Zhentil Fortress,102321.00,0.10,0.05,0.05,0.10,0.10,0.00,0.01,,,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.21,2476168.20,,Underdark,,0
+564,Land of Mountains,Zhido,50951.00,0.10,0.05,0.05,0.05,0.05,0.15,0.01,,,,,,0.00,,,,700000.00,0.07,200.00,"low medieval industry, trade 1, all hengyokai pop",0.16,1182063.20,"large iron, aluminum",Underdark,,0
+565,The Great Jungle,Zhievine,8096385.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+566,Bhaerynden Kingdom,Zhouver,518004.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,,,,,0.00,0.10,-0.20,,1000000.00,0.10,200.00,"low medieval industry, trade 1, all duergar pop",0.41,14607712.80,"large iron, moderate aluminum, silver",Underdark,,0
+567,Kingdom of Numenor,Zimson,155541.00,0.05,0.25,0.05,0.10,0.10,0.05,0.01,,0.00,,,,0.00,0.15,,,,0.00,200.00,"low medieval industry, trade 1, all numenor pop",0.56,2427995.01,,Overworld,,0
+568,Aglarond,Zirak,1245730.00,0.10,0.15,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.10,-0.20,,400000.00,0.04,300.00,"medium medieval industry, trade 1, all dwarf pop",0.51,56468940.90,"large copper, low silver",Underdark,,0
+569,Lux Imperium,Zissa,310814.00,0.10,0.10,0.15,0.10,0.10,0.15,0.01,,0.00,,,,0.00,0.05,-0.10,,,0.00,200.00,"low medieval industry, trade 1, all drow pop",0.41,8771171.08,,Underdark,,0
+570,Darchar,Zlaham,519291.00,0.10,0.15,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1, all greenspawn",0.36,14124715.20,,Underdark,,0
+571,The Cube,Zlegas,509264.00,0.10,0.00,0.00,0.00,0.00,0.05,0.01,,,,,,0.00,-0.15,0.30,,,0.00,200.00,"low medieval industry, trade 1, all derro pop",-0.14,8759340.80,,Underdark,,0
+572,The Great Jungle,Zlonio,1012048.00,0.00,0.00,0.00,0.00,0.00,0.15,0.00,,,,,,0.00,,,,,0.00,,,0.00,0.00,,Underdark,,0
+573,The Myrkur Imperium,Zogate,205740.00,0.10,0.15,0.10,0.10,0.10,0.10,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.36,5596128.00,,Underdark,,0
+574,The Myrkur Imperium,Zrila,514352.00,0.10,0.10,0.10,0.10,0.10,0.15,0.01,,0.00,,,,0.00,,,,,0.00,200.00,"low medieval industry, trade 1",0.31,13476022.40,,Underdark,,0
