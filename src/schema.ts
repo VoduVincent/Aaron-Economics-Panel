@@ -26,7 +26,7 @@ export interface City {
     specialEconomicNotes: string;
     netProsperity: number;
     netIncome: number;
-    resourcesNotes: number;
+    resourcesNotes: string;
     surface: string;
     occupiedBy: string;
     resistance: number;
