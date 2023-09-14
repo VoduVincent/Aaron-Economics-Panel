@@ -1,5 +1,5 @@
 import { json } from 'stream/consumers';
-import type { RequestHandler } from './$types';
+import type { RequestHandler } from '../$types';
 
 
 import { PrismaClient } from '@prisma/client'
