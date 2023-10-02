@@ -5,6 +5,8 @@ import fetch from 'node-fetch';
 
 import Database from 'better-sqlite3';
 
+import { EARTH_URL } from '$env/static/private';
+
 export const POST: RequestHandler = async ({ url }) => {
 
 	const wantsTick = (url.searchParams.get('wantsTick') ?? false);
@@ -21,7 +23,7 @@ export const POST: RequestHandler = async ({ url }) => {
         throw error(400,"Could not find the requested year in the URL")
     }
 
-    const db = await new Database("D:/Aaron-Economics-Panel/data/earth.db");
+    const db = await new Database("EARTH_URL");
     db.pragma('journal_mode = WAL');
     db.pragma("busy_timeout = 50000");
 
@@ -33,7 +35,7 @@ export const POST: RequestHandler = async ({ url }) => {
 
     // City Tick
 
-    const all_cities_respose = await fetch(`http://localhost:5173/api/earth/data/city/?year=${year}&month=${month}`) 
+    const all_cities_respose = await fetch(`${url.origin}/api/earth/data/city/?year=${year}&month=${month}`) 
 
     let all_cities
     all_cities = await all_cities_respose.json()
@@ -53,7 +55,7 @@ export const POST: RequestHandler = async ({ url }) => {
 
         if (row.month == 12){
             newYear = year + 1
-            newMonth = 0
+            newMonth = 1
         }
         else {
             newMonth = row.month + 1
