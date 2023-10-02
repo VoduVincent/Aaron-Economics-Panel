@@ -26,6 +26,6 @@
 </p1>
 <ul>
 	{#each data.empires as empire}
-		<li><a href="./earth/nations/{empire}"> {empire} </a></li>
+		<li><a class="font-medium text-blue-600 dark:text-blue-500 hover:underline" href="./earth/nations/{empire}"> {empire} </a></li>
 	{/each}
 </ul>

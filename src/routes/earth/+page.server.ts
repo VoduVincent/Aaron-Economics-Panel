@@ -2,13 +2,10 @@ import type { PageServerLoad } from './$types';
 
 import { Chart } from 'chart.js';
 
-function onlyUnique(value: any, index: any, array: string | any[]) {
-	return array.indexOf(value) === index;
-  }
+export const load: PageServerLoad = async ({ params,url }) => {
 
-export const load: PageServerLoad = async ({ params }) => {
+	let data = await (await fetch(`${url.origin}/api/earth/data/city/?year=${0}&nation=`)).json()
 
-	let data = await (await fetch(`http://localhost:5173/api/earth/data/city/?year=${1}`)).json()
 
 	let _years_ = data.toSorted((a:any,b:any) => b.year - a.year)
 	let _months_ = data.toSorted((a:any,b:any) => b.month - a.month)
