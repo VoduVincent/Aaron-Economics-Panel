@@ -1,0 +1,44 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["groupBy", "createMany"]
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("EARTH_URL")
+}
+
+model city {
+  id                   Int     @id @default(autoincrement())
+  year                 Int?    @default(1926)
+  month                Int?    @default(1)
+  empire               String?
+  name                 String?
+  pop                  Int?
+  tax                  Float?
+  prosperityRegional   Float?
+  prosperityNational   Float?
+  landInfra            Float?
+  seaInfra             Float?
+  terrain              Float?
+  literacy             Float?
+  warPop               Float?
+  trade                Float?
+  capital              Float?
+  specialPop           Float?
+  specialProd          Float?
+  healthcareSpending   Float?
+  popTaxMod            Float?
+  popGrowthMod         Float?
+  colonialBoost        Float?
+  resourceIncome       Int?
+  resourceBoost        Float?
+  taxBaseIndustry      Float?
+  specialEconomicNotes String?
+  netProsperity        Float?
+  netIncome            Float?
+  resourcesNotes       String?
+  surface              String?
+  occupiedBy           String?
+  resistance           Float?
+}
