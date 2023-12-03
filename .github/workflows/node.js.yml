@@ -16,6 +16,7 @@ jobs:
       deployments: write
       checks: write
       contents: write
+      pages: write
     runs-on: ubuntu-latest
     environment:
       name: github-pages
