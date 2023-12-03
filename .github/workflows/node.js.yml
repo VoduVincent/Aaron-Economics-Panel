@@ -30,11 +30,14 @@ jobs:
         working-directory: ./client
         run: npm run build
 
+      - name: Force Add Build Directory
+        run: |
+          git add -f ./client/build
+
       - name: Commit and Push Changes
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
           
-          git add ./build
           git commit -m "Build and deploy latest changes"
           git push
