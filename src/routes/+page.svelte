@@ -13,8 +13,6 @@
         The cerebrum, the largest part of the human brain, consists of two cerebral hemispheres. Each hemisphere has an inner core composed of white matter, and an outer surface – the cerebral cortex – composed of grey matter. The cortex has an outer layer, the neocortex, and an inner allocortex. The neocortex is made up of six neuronal layers, while the allocortex has three or four. Each hemisphere is conventionally divided into four lobes – the frontal, temporal, parietal, and occipital lobes. The frontal lobe is associated with executive functions including self-control, planning, reasoning, and abstract thought, while the occipital lobe is dedicated to vision. Within each lobe, cortical areas are associated with specific functions, such as the sensory, motor and association regions. Although the left and right hemispheres are broadly similar in shape and function, some functions are associated with one side, such as language in the left and visual-spatial ability in the right. The hemispheres are connected by commissural nerve tracts, the largest being the corpus callosum. 
     </p>
 
-    <a href="/earthdashboard" role="button">Earth Dashboard</a>
-    <a href="/wuxiadashboard" role="button">Wuxia Dashboard</a>
 </div>
 <div>
     <img src={brain1} alt="aaron brain">
