@@ -25,7 +25,5 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-        cache-dependency-path: './client/package-lock.json'
     - run: npm i
     - run: npm run build
