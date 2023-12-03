@@ -11,6 +11,8 @@ on:
 
 jobs:
   build-and-depl:
+    permissions:
+      id-token: write
     runs-on: ubuntu-latest
     environment:
       name: github-pages
