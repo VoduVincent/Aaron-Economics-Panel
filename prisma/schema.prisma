@@ -10,13 +10,13 @@ datasource db {
 model city {
   id                              Int        @id @default(autoincrement())
   name                            String     @unique
-  founding_month                  Int
+  founding_month                  Int        
   surfaceId                       Int
   nationId                        Int?
   monthId                         Int
   population                      Int?
   tax_rate                        Float?
-  propserity_regional             Float?
+  prosperity_regional             Float?
   prosperity_national             Float?
   prosperity_net                  Float?
   land_infra                      Float?
