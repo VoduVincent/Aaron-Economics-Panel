@@ -1,0 +1,143 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model city {
+  id                              Int        @id @default(autoincrement())
+  name                            String     @unique
+  founding_month                  Int
+  surfaceId                       Int
+  nationId                        Int?
+  monthId                         Int
+  population                      Int?
+  tax_rate                        Float?
+  propserity_regional             Float?
+  prosperity_national             Float?
+  land_infra                      Float?
+  sea_infra                       Float?
+  air_infra                       Float?
+  terrain_modifier                Float?
+  literacy_rate                   Float?
+  war_population_modifier         Float?
+  trade_modifier                  Float?
+  capital_modifier                Float?
+  special_population_modifier     Float?
+  special_production_modifier     Float?
+  healthcare_spending             Float?
+  colonial_booster_population_mod Float?
+  resource_income                 Float?
+  resource_boost                  Float?
+  note_economic                   String?
+  note                            String?
+  speciesId                       Int
+  species                         species    @relation(fields: [speciesId], references: [id])
+  month                           month      @relation(fields: [monthId], references: [id])
+  nation                          nation?    @relation(fields: [nationId], references: [id])
+  surface                         surface    @relation(fields: [surfaceId], references: [id])
+  resources                       resource[]
+}
+
+model month {
+  id            Int             @id @default(autoincrement())
+  city          city[]
+  nation        nation[]
+  planet        planet[]
+  species       species[]
+  surface       surface[]
+  resource      resource[]
+  resource_type resource_type[]
+}
+
+model nation {
+  id                  Int    @id @default(autoincrement())
+  name                String @unique
+  revenue_tax         Float?
+  revenue_resources   Float?
+  healthcare_spending Float?
+  colonial_spending   Float?
+  army_spending       Float?
+  navy_spending       Float?
+  air_spending        Float?
+  infrastructure      Float?
+  profit              Float?
+  vault_money         Float?
+  monthId             Int
+  city                city[]
+  month               month  @relation(fields: [monthId], references: [id])
+}
+
+model planet {
+  id      Int       @id @default(autoincrement())
+  name    String    @unique
+  monthId Int
+  month   month     @relation(fields: [monthId], references: [id])
+  surface surface[]
+}
+
+model species {
+  id                         Int    @id @default(autoincrement())
+  name                       String @unique
+  monthId                    Int
+  taxation_modifier          Float
+  population_growth_modifier Float
+  city                       city[]
+  month                      month  @relation(fields: [monthId], references: [id])
+}
+
+model surface {
+  id       Int     @id @default(autoincrement())
+  name     String  @unique
+  planetId Int?
+  monthId  Int
+  city     city[]
+  month    month   @relation(fields: [monthId], references: [id])
+  planet   planet? @relation(fields: [planetId], references: [id])
+}
+
+model resource {
+  id Int @id @default(autoincrement())
+
+  type resource_type @relation(fields: [resource_typeId], references: [id])
+
+  modern_extration_start_month Int
+
+  is_sold Boolean
+
+  month           month @relation(fields: [monthId], references: [id])
+  monthId         Int
+  resource_typeId Int
+  city            city? @relation(fields: [cityId], references: [id])
+  cityId          Int?
+}
+
+model resource_type {
+  id Int @id @default(autoincrement())
+
+  type String
+
+  size String
+
+  lasts Int
+
+  special Boolean
+
+  gem Boolean
+
+  tonnage Int
+
+  value Int
+
+  small_gem_output  Int?
+  medium_gem_output Int?
+  large_gem_output  Int?
+
+  month month @relation(fields: [monthId], references: [id])
+
+  resource resource[]
+  monthId  Int
+}
