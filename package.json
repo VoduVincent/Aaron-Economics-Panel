@@ -27,6 +27,7 @@
 	"dependencies": {
 		"@picocss/pico": "^1.5.10",
 		"@prisma/client": "^5.7.1",
+		"@sveltejs/adapter-node": "^2.0.2",
 		"dotenv": "^16.3.1",
 		"prisma": "^5.7.1"
 	}
