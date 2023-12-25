@@ -14,4 +14,6 @@ npm run build
 
 nohup node -r dotenv/config build &
 
-nohup sudo -E caddy reverse-proxy --from aarongodpanel.com --to 85.215.44.149:3000 & 
+nohup sqlite_web --host 85.215.44.149 ./db/aaron.db &
+
+nohup caddy run & 
