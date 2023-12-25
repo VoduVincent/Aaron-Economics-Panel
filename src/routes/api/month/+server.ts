@@ -4,7 +4,7 @@ import type { RequestHandler } from "@sveltejs/kit";
 import * as Papa from 'papaparse';
 
 export async function GET({url}) {
-    const month_param = Number(url.searchParams.get("month") ?? 0)
+    const month_param = Number(url.searchParams.get("month") ?? 1)
     const csv_param = Number(url.searchParams.get("csv") ?? 0)
 
     if( await prisma.month.findUnique({
