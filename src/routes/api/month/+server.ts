@@ -1,7 +1,8 @@
 import { prisma } from "$lib/handler/db/prisma";
 import type { RequestHandler } from "@sveltejs/kit";
 
-import * as Papa from 'papaparse';
+import {unparse} from 'papaparse';
+
 
 export async function GET({url}) {
     const month_param = Number(url.searchParams.get("month") ?? 1)
@@ -22,7 +23,7 @@ export async function GET({url}) {
         const species = await prisma.month.findUnique({where:{id:month_param}}).species()
         const city = await prisma.month.findUnique({where:{id:month_param}}).city()
 
-        if (csv_param){
+    if (csv_param){
             const data = [
                 {month},
                 {planet},
@@ -33,11 +34,13 @@ export async function GET({url}) {
                 {species},
                 {city}
             ]
-            return new Response(Papa.unparse(data))
+            return new Response(unparse(data))
         }
     }
     else{
         return new Response("How about you give me a month that actually exists dumbass")
     }
+
+    return new Response("This code and seethe aaron")
 
 }
