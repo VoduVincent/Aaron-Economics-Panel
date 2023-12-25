@@ -1,8 +1,7 @@
 import { prisma } from "$lib/handler/db/prisma";
 import type { RequestHandler } from "@sveltejs/kit";
 
-import {unparse} from 'papaparse';
-
+import Papa from "papaparse";
 
 export async function GET({url}) {
     const month_param = Number(url.searchParams.get("month") ?? 1)
@@ -34,7 +33,7 @@ export async function GET({url}) {
                 {species},
                 {city}
             ]
-            return new Response(unparse(data))
+            return new Response(Papa.unparse(data))
         }
     }
     else{
